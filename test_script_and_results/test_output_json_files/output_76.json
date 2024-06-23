@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "holly",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "decorated",
+    "input_csv_line_number": "3376",
+    "input_csv_related_word": "PRESENTED",
+    "similarity_score": "0.59364057"
+  },
+  {
+    "word_start_position": 16,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "house",
+    "input_csv_line_number": "416",
+    "input_csv_related_word": "HOUSE",
+    "similarity_score": "2.1632678e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 31,
+    "word": "holly",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 37,
+    "word": "branches",
+    "input_csv_line_number": "1399",
+    "input_csv_related_word": "BRANCHES",
+    "similarity_score": "1.6984119e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "holidays.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "jasmine",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 9,
+    "word": "who",
+    "input_csv_line_number": "1984",
+    "input_csv_related_word": "WHO",
+    "similarity_score": "3.0053992e-13"
+  },
+  {
+    "word_start_position": 13,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 17,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 23,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "fragrant",
+    "input_csv_line_number": "2437",
+    "input_csv_related_word": "FRIENDLY",
+    "similarity_score": "0.6307378"
+  },
+  {
+    "word_start_position": 42,
+    "word": "flower,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 50,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 56,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "smell",
+    "input_csv_line_number": "3979",
+    "input_csv_related_word": "SMELL",
+    "similarity_score": "2.451198e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 69,
+    "word": "jasmine",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 77,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "garden.",
+    "input_csv_line_number": "NULL"
+  }
+]

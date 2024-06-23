@@ -1,0 +1,81 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "city",
+    "input_csv_line_number": "4120",
+    "input_csv_related_word": "CITY",
+    "similarity_score": "2.5258463e-13"
+  },
+  {
+    "word_start_position": 9,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "orange",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 20,
+    "word": "california",
+    "input_csv_line_number": "2558",
+    "input_csv_related_word": "CALIFORNIA"
+  },
+  {
+    "word_start_position": 32,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 35,
+    "word": "famous",
+    "input_csv_line_number": "811",
+    "input_csv_related_word": "FAMOUS",
+    "similarity_score": "3.0508988e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 50,
+    "word": "vibrant",
+    "input_csv_line_number": "2429",
+    "input_csv_related_word": "COLOR",
+    "similarity_score": "0.72630674"
+  },
+  {
+    "word_start_position": 58,
+    "word": "orange",
+    "input_csv_line_number": "1122",
+    "input_csv_related_word": "ORANGE",
+    "similarity_score": "2.1996402e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "groves.",
+    "input_csv_line_number": "NULL"
+  }
+]

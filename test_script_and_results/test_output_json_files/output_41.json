@@ -1,0 +1,99 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 3,
+    "word": "charlotte",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 14,
+    "word": "north",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 20,
+    "word": "carolina",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 30,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "tried",
+    "input_csv_line_number": "2390",
+    "input_csv_related_word": "TRY",
+    "similarity_score": "0.112344034"
+  },
+  {
+    "word_start_position": 40,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "delicious",
+    "input_csv_line_number": "28",
+    "input_csv_related_word": "DELICIOUS",
+    "similarity_score": "3.8459047e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "charlotte",
+    "input_csv_line_number": "512",
+    "input_csv_related_word": "BISCUIT",
+    "similarity_score": "0.7950243"
+  },
+  {
+    "word_start_position": 62,
+    "word": "dessert",
+    "input_csv_line_number": "1469",
+    "input_csv_related_word": "DESSERT",
+    "similarity_score": "3.9602612e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 73,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "famous",
+    "input_csv_line_number": "811",
+    "input_csv_related_word": "FAMOUS",
+    "similarity_score": "3.0508988e-13"
+  },
+  {
+    "word_start_position": 82,
+    "word": "local",
+    "input_csv_line_number": "1111",
+    "input_csv_related_word": "LOCAL",
+    "similarity_score": "3.223486e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "bakery.",
+    "input_csv_line_number": "NULL"
+  }
+]

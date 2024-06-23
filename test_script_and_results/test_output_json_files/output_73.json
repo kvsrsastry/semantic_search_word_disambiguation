@@ -1,0 +1,89 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "daisy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "picked",
+    "input_csv_line_number": "243",
+    "input_csv_related_word": "PRICE",
+    "similarity_score": "0.36005765"
+  },
+  {
+    "word_start_position": 13,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 15,
+    "word": "daisy",
+    "input_csv_line_number": "1250",
+    "input_csv_related_word": "BOUQUET",
+    "similarity_score": "0.8595848"
+  },
+  {
+    "word_start_position": 21,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 30,
+    "word": "field",
+    "input_csv_line_number": "3164",
+    "input_csv_related_word": "FIELD",
+    "similarity_score": "2.1592207e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "wore",
+    "input_csv_line_number": "3458",
+    "input_csv_related_word": "ATTIRE",
+    "similarity_score": "0.36651832"
+  },
+  {
+    "word_start_position": 45,
+    "word": "it",
+    "input_csv_line_number": "2753",
+    "input_csv_related_word": "IT",
+    "similarity_score": "4.0189857e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "hair.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "hunter",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "professional",
+    "input_csv_line_number": "1275",
+    "input_csv_related_word": "PROFESSIONAL",
+    "similarity_score": "2.2521703e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "hunter,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 33,
+    "word": "tracked",
+    "input_csv_line_number": "888",
+    "input_csv_related_word": "PASS",
+    "similarity_score": "0.47521305"
+  },
+  {
+    "word_start_position": 41,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "deer",
+    "input_csv_line_number": "3011",
+    "input_csv_related_word": "DEER",
+    "similarity_score": "2.5861095e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "through",
+    "input_csv_line_number": "2794",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "1.8500043e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "forest.",
+    "input_csv_line_number": "NULL"
+  }
+]

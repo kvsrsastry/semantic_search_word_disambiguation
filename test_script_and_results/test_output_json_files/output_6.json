@@ -1,0 +1,134 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "delta",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "air",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 10,
+    "word": "lines",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 16,
+    "word": "offers",
+    "input_csv_line_number": "3902",
+    "input_csv_related_word": "OFFERS",
+    "similarity_score": "2.4121848e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "flight",
+    "input_csv_line_number": "1109",
+    "input_csv_related_word": "FLIGHT",
+    "similarity_score": "2.0279065e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "over",
+    "input_csv_line_number": "1107",
+    "input_csv_related_word": "OVER",
+    "similarity_score": "2.1478514e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "mississippi",
+    "input_csv_line_number": "3287",
+    "input_csv_related_word": "MISSISSIPPI"
+  },
+  {
+    "word_start_position": 53,
+    "word": "river",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 59,
+    "word": "delta,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 66,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "you",
+    "input_csv_line_number": "528",
+    "input_csv_related_word": "YOU",
+    "similarity_score": "2.1607913e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "can",
+    "input_csv_line_number": "586",
+    "input_csv_related_word": "CAN",
+    "similarity_score": "2.8546577e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "see",
+    "input_csv_line_number": "3744",
+    "input_csv_related_word": "SEE",
+    "similarity_score": "1.714283e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "changes",
+    "input_csv_line_number": "782",
+    "input_csv_related_word": "ALTERATION",
+    "similarity_score": "0.38383126"
+  },
+  {
+    "word_start_position": 96,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 99,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 103,
+    "word": "river's",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 111,
+    "word": "path.",
+    "input_csv_line_number": "NULL"
+  }
+]

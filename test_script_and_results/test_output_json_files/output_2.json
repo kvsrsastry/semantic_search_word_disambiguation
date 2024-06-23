@@ -1,0 +1,94 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "loves",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 10,
+    "word": "using",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 16,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "apple",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "iphone",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 33,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "photograph",
+    "input_csv_line_number": "3468",
+    "input_csv_related_word": "SELFIE",
+    "similarity_score": "0.61746097"
+  },
+  {
+    "word_start_position": 47,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "apple",
+    "input_csv_line_number": "214",
+    "input_csv_related_word": "APPLE",
+    "similarity_score": "2.636878e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "tree",
+    "input_csv_line_number": "601",
+    "input_csv_related_word": "TREE",
+    "similarity_score": "3.1541807e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 69,
+    "word": "backyard.",
+    "input_csv_line_number": "NULL"
+  }
+]

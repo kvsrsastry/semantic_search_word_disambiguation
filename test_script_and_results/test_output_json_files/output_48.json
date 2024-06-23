@@ -1,0 +1,114 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 7,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 11,
+    "word": "summer",
+    "input_csv_line_number": "577",
+    "input_csv_related_word": "SUMMER",
+    "similarity_score": "2.5093295e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "festival",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 30,
+    "word": "bee",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 35,
+    "word": "nebraska",
+    "input_csv_line_number": "2615",
+    "input_csv_related_word": "NEBRASKA"
+  },
+  {
+    "word_start_position": 45,
+    "word": "children",
+    "input_csv_line_number": "136",
+    "input_csv_related_word": "CHILDREN",
+    "similarity_score": "2.357506e-13"
+  },
+  {
+    "word_start_position": 54,
+    "word": "learned",
+    "input_csv_line_number": "121",
+    "input_csv_related_word": "LEARN",
+    "similarity_score": "0.119265966"
+  },
+  {
+    "word_start_position": 62,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 68,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "importance",
+    "input_csv_line_number": "997",
+    "input_csv_related_word": "EMPHASIZE",
+    "similarity_score": "0.7599875"
+  },
+  {
+    "word_start_position": 83,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 86,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 90,
+    "word": "bee",
+    "input_csv_line_number": "993",
+    "input_csv_related_word": "BEE",
+    "similarity_score": "2.336067e-13"
+  },
+  {
+    "word_start_position": 94,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 97,
+    "word": "pollination.",
+    "input_csv_line_number": "NULL"
+  }
+]

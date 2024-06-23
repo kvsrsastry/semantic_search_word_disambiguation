@@ -1,0 +1,113 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "fans",
+    "input_csv_line_number": "1660",
+    "input_csv_related_word": "ATHLETE",
+    "similarity_score": "0.7561922"
+  },
+  {
+    "word_start_position": 5,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 8,
+    "word": "r",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 16,
+    "word": "te",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 22,
+    "word": "productions",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 34,
+    "word": "enjoy",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "2.7214797e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 44,
+    "word": "early",
+    "input_csv_line_number": "1554",
+    "input_csv_related_word": "EARLY",
+    "similarity_score": "3.6599028e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "morning",
+    "input_csv_line_number": "4012",
+    "input_csv_related_word": "MORNING",
+    "similarity_score": "3.601656e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "crow",
+    "input_csv_line_number": "2733",
+    "input_csv_related_word": "BARK",
+    "similarity_score": "0.85065687"
+  },
+  {
+    "word_start_position": 63,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 68,
+    "word": "real",
+    "input_csv_line_number": "3230",
+    "input_csv_related_word": "REAL",
+    "similarity_score": "2.8660223e-13"
+  },
+  {
+    "word_start_position": 73,
+    "word": "rooster",
+    "input_csv_line_number": "109",
+    "input_csv_related_word": "MAN",
+    "similarity_score": "0.7565634"
+  },
+  {
+    "word_start_position": 81,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "countryside.",
+    "input_csv_line_number": "NULL"
+  }
+]

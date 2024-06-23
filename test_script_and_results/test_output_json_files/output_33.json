@@ -1,0 +1,144 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 3,
+    "word": "lee",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 9,
+    "word": "virginia",
+    "input_csv_line_number": "1732",
+    "input_csv_related_word": "VIRGINIA"
+  },
+  {
+    "word_start_position": 19,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 22,
+    "word": "enjoyed",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 30,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "fine",
+    "input_csv_line_number": "83",
+    "input_csv_related_word": "FINE",
+    "similarity_score": "7.705453e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "wine",
+    "input_csv_line_number": "1901",
+    "input_csv_related_word": "APPLE CIDER",
+    "similarity_score": "0.63856"
+  },
+  {
+    "word_start_position": 42,
+    "word": "tour",
+    "input_csv_line_number": "3768",
+    "input_csv_related_word": "TOUR",
+    "similarity_score": "1.7652516e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "learned",
+    "input_csv_line_number": "121",
+    "input_csv_related_word": "LEARN",
+    "similarity_score": "0.119265966"
+  },
+  {
+    "word_start_position": 64,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 74,
+    "word": "lees",
+    "input_csv_line_number": "4145",
+    "input_csv_related_word": "AFRICAN AMERICAN",
+    "similarity_score": "0.7899619"
+  },
+  {
+    "word_start_position": 79,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 82,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 86,
+    "word": "bottom",
+    "input_csv_line_number": "3728",
+    "input_csv_related_word": "BOTTOM",
+    "similarity_score": "1.7419634e-13"
+  },
+  {
+    "word_start_position": 93,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 96,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 100,
+    "word": "barrels.",
+    "input_csv_line_number": "NULL"
+  }
+]

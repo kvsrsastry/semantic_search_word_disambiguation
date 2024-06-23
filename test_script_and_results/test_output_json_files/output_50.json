@@ -1,0 +1,96 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "chi",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "new",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "york",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 17,
+    "word": "hosts",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "annual",
+    "input_csv_line_number": "4063",
+    "input_csv_related_word": "ANNUAL",
+    "similarity_score": "2.3082884e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "chili",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 39,
+    "word": "cook-off",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 48,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "draws",
+    "input_csv_line_number": "2144",
+    "input_csv_related_word": "WRITE",
+    "similarity_score": "0.4227155"
+  },
+  {
+    "word_start_position": 59,
+    "word": "spicy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 65,
+    "word": "stew",
+    "input_csv_line_number": "1480",
+    "input_csv_related_word": "AGONIZE",
+    "similarity_score": "0.69945407"
+  },
+  {
+    "word_start_position": 70,
+    "word": "enthusiasts",
+    "input_csv_line_number": "2222",
+    "input_csv_related_word": "ANTAGONIST",
+    "similarity_score": "0.79938745"
+  },
+  {
+    "word_start_position": 82,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 87,
+    "word": "all",
+    "input_csv_line_number": "1392",
+    "input_csv_related_word": "ALL",
+    "similarity_score": "3.2025996e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "over.",
+    "input_csv_line_number": "NULL"
+  }
+]

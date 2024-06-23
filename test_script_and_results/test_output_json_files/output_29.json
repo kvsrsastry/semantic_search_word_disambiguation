@@ -1,0 +1,120 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "paying",
+    "input_csv_line_number": "1734",
+    "input_csv_related_word": "PAY",
+    "similarity_score": "0.35198867"
+  },
+  {
+    "word_start_position": 7,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "square",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 20,
+    "word": "inc",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "system",
+    "input_csv_line_number": "1456",
+    "input_csv_related_word": "SYSTEM",
+    "similarity_score": "1.9346345e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "cafe,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 47,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "admired",
+    "input_csv_line_number": "1360",
+    "input_csv_related_word": "IMPRESSED",
+    "similarity_score": "0.36057144"
+  },
+  {
+    "word_start_position": 59,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 63,
+    "word": "perfect",
+    "input_csv_line_number": "1610",
+    "input_csv_related_word": "PERFECT",
+    "similarity_score": "6.000912e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "square",
+    "input_csv_line_number": "2763",
+    "input_csv_related_word": "HONEST",
+    "similarity_score": "0.84611183"
+  },
+  {
+    "word_start_position": 78,
+    "word": "shape",
+    "input_csv_line_number": "3522",
+    "input_csv_related_word": "LOOK",
+    "similarity_score": "0.4541465"
+  },
+  {
+    "word_start_position": 84,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 87,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "chocolate",
+    "input_csv_line_number": "1904",
+    "input_csv_related_word": "CHOCOLATE",
+    "similarity_score": "2.2711255e-13"
+  },
+  {
+    "word_start_position": 101,
+    "word": "bar.",
+    "input_csv_line_number": "NULL"
+  }
+]

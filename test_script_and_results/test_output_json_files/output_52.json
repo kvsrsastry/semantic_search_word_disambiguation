@@ -1,0 +1,171 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "hikers",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "reached",
+    "input_csv_line_number": "1641",
+    "input_csv_related_word": "CONTACT",
+    "similarity_score": "0.44957364"
+  },
+  {
+    "word_start_position": 19,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "crest",
+    "input_csv_line_number": "452",
+    "input_csv_related_word": "TOP OF SCREEN",
+    "similarity_score": "0.6560186"
+  },
+  {
+    "word_start_position": 29,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "hill",
+    "input_csv_line_number": "805",
+    "input_csv_related_word": "HILLY",
+    "similarity_score": "0.79403704"
+  },
+  {
+    "word_start_position": 41,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 45,
+    "word": "saw",
+    "input_csv_line_number": "1272",
+    "input_csv_related_word": "GATHER",
+    "similarity_score": "3.274263e-13"
+  },
+  {
+    "word_start_position": 49,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "entire",
+    "input_csv_line_number": "104",
+    "input_csv_related_word": "INTEGRATE",
+    "similarity_score": "0.7461028"
+  },
+  {
+    "word_start_position": 60,
+    "word": "valley",
+    "input_csv_line_number": "173",
+    "input_csv_related_word": "VALLEY",
+    "similarity_score": "1.7697619e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "spread",
+    "input_csv_line_number": "315",
+    "input_csv_related_word": "SPREAD",
+    "similarity_score": "1.3548415e-13"
+  },
+  {
+    "word_start_position": 74,
+    "word": "out",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 78,
+    "word": "before",
+    "input_csv_line_number": "823",
+    "input_csv_related_word": "BEFORE",
+    "similarity_score": "1.6317351e-13"
+  },
+  {
+    "word_start_position": 85,
+    "word": "them,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 91,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 93,
+    "word": "view",
+    "input_csv_line_number": "3919",
+    "input_csv_related_word": "NOTICE",
+    "similarity_score": "0.44270894"
+  },
+  {
+    "word_start_position": 98,
+    "word": "they",
+    "input_csv_line_number": "2180",
+    "input_csv_related_word": "THEY",
+    "similarity_score": "2.1579886e-13"
+  },
+  {
+    "word_start_position": 103,
+    "word": "hadn't",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 110,
+    "word": "anticipated",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 122,
+    "word": "finding",
+    "input_csv_line_number": "186",
+    "input_csv_related_word": "CHECK",
+    "similarity_score": "0.8223997"
+  },
+  {
+    "word_start_position": 130,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 133,
+    "word": "c",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 140,
+    "word": "california",
+    "input_csv_line_number": "2558",
+    "input_csv_related_word": "CALIFORNIA"
+  }
+]

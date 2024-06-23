@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "wearing",
+    "input_csv_line_number": "3458",
+    "input_csv_related_word": "ATTIRE",
+    "similarity_score": "0.36651832"
+  },
+  {
+    "word_start_position": 8,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "new",
+    "input_csv_line_number": "289",
+    "input_csv_related_word": "NEW",
+    "similarity_score": "3.8175428e-13"
+  },
+  {
+    "word_start_position": 16,
+    "word": "american",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 25,
+    "word": "eagle",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 31,
+    "word": "out",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 42,
+    "word": "jacket,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 50,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 54,
+    "word": "spotted",
+    "input_csv_line_number": "3722",
+    "input_csv_related_word": "LINES",
+    "similarity_score": "0.63648576"
+  },
+  {
+    "word_start_position": 62,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 65,
+    "word": "eagle",
+    "input_csv_line_number": "567",
+    "input_csv_related_word": "EAGLE",
+    "similarity_score": "2.0391287e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "soaring",
+    "input_csv_line_number": "1201",
+    "input_csv_related_word": "FALL",
+    "similarity_score": "0.36117822"
+  },
+  {
+    "word_start_position": 79,
+    "word": "high",
+    "input_csv_line_number": "4056",
+    "input_csv_related_word": "HIGH",
+    "similarity_score": "2.7238753e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "above",
+    "input_csv_line_number": "364",
+    "input_csv_related_word": "ABOVE",
+    "similarity_score": "2.503868e-13"
+  },
+  {
+    "word_start_position": 90,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 94,
+    "word": "mountains.",
+    "input_csv_line_number": "NULL"
+  }
+]

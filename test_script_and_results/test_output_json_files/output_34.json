@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "moved",
+    "input_csv_line_number": "1048",
+    "input_csv_related_word": "READY",
+    "similarity_score": "0.50269926"
+  },
+  {
+    "word_start_position": 10,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 13,
+    "word": "cook",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 19,
+    "word": "minnesota",
+    "input_csv_line_number": "3371",
+    "input_csv_related_word": "MINNESOTA"
+  },
+  {
+    "word_start_position": 30,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "learned",
+    "input_csv_line_number": "121",
+    "input_csv_related_word": "LEARN",
+    "similarity_score": "0.119265966"
+  },
+  {
+    "word_start_position": 48,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "cook",
+    "input_csv_line_number": "786",
+    "input_csv_related_word": "COOK",
+    "similarity_score": "3.4326692e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "delicious",
+    "input_csv_line_number": "28",
+    "input_csv_related_word": "DELICIOUS",
+    "similarity_score": "3.8459047e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "meals",
+    "input_csv_line_number": "1343",
+    "input_csv_related_word": "MEAL",
+    "similarity_score": "0.47242287"
+  },
+  {
+    "word_start_position": 72,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "family.",
+    "input_csv_line_number": "NULL"
+  }
+]

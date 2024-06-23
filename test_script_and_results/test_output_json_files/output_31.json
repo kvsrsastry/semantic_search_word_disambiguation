@@ -1,0 +1,82 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "wearing",
+    "input_csv_line_number": "3458",
+    "input_csv_related_word": "ATTIRE",
+    "similarity_score": "0.36651832"
+  },
+  {
+    "word_start_position": 8,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 10,
+    "word": "stylish",
+    "input_csv_line_number": "3458",
+    "input_csv_related_word": "ATTIRE",
+    "similarity_score": "0.8660199"
+  },
+  {
+    "word_start_position": 18,
+    "word": "outfit",
+    "input_csv_line_number": "1434",
+    "input_csv_related_word": "SUIT",
+    "similarity_score": "0.49638063"
+  },
+  {
+    "word_start_position": 25,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 30,
+    "word": "man",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 37,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "enjoyed",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 49,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "fresh",
+    "input_csv_line_number": "2933",
+    "input_csv_related_word": "DRY",
+    "similarity_score": "0.69731146"
+  },
+  {
+    "word_start_position": 57,
+    "word": "mango",
+    "input_csv_line_number": "2729",
+    "input_csv_related_word": "AVOCADO",
+    "similarity_score": "0.6402896"
+  },
+  {
+    "word_start_position": 63,
+    "word": "smoothie.",
+    "input_csv_line_number": "NULL"
+  }
+]

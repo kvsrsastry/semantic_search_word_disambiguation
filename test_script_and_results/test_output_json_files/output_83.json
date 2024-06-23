@@ -1,0 +1,50 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "clay",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "enjoyed",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 13,
+    "word": "molding",
+    "input_csv_line_number": "660",
+    "input_csv_related_word": "POWERFUL",
+    "similarity_score": "0.8793465"
+  },
+  {
+    "word_start_position": 21,
+    "word": "clay",
+    "input_csv_line_number": "3001",
+    "input_csv_related_word": "PHYSICAL",
+    "similarity_score": "0.76589227"
+  },
+  {
+    "word_start_position": 26,
+    "word": "into",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 31,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "pottery",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 49,
+    "word": "pieces.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "wells",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "nevada",
+    "input_csv_line_number": "3848",
+    "input_csv_related_word": "NEVADA"
+  },
+  {
+    "word_start_position": 15,
+    "word": "has",
+    "input_csv_line_number": "744",
+    "input_csv_related_word": "HAS",
+    "similarity_score": "1.8117672e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "several",
+    "input_csv_line_number": "118",
+    "input_csv_related_word": "3 HAND",
+    "similarity_score": "0.6471342"
+  },
+  {
+    "word_start_position": 27,
+    "word": "historical",
+    "input_csv_line_number": "2031",
+    "input_csv_related_word": "HISTORY",
+    "similarity_score": "0.72999346"
+  },
+  {
+    "word_start_position": 38,
+    "word": "wells",
+    "input_csv_line_number": "3732",
+    "input_csv_related_word": "CASE",
+    "similarity_score": "0.7285211"
+  },
+  {
+    "word_start_position": 44,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 49,
+    "word": "provided",
+    "input_csv_line_number": "969",
+    "input_csv_related_word": "ACCOMMODATION",
+    "similarity_score": "0.6562725"
+  },
+  {
+    "word_start_position": 58,
+    "word": "water",
+    "input_csv_line_number": "661",
+    "input_csv_related_word": "WATER",
+    "similarity_score": "2.1420775e-13"
+  },
+  {
+    "word_start_position": 64,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "early",
+    "input_csv_line_number": "1554",
+    "input_csv_related_word": "EARLY",
+    "similarity_score": "3.6599028e-13"
+  },
+  {
+    "word_start_position": 73,
+    "word": "settlers.",
+    "input_csv_line_number": "NULL"
+  }
+]

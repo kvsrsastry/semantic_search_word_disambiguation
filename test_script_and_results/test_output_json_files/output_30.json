@@ -1,0 +1,74 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "touring",
+    "input_csv_line_number": "3768",
+    "input_csv_related_word": "TOUR",
+    "similarity_score": "0.71360546"
+  },
+  {
+    "word_start_position": 8,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 15,
+    "word": "b",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "company",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 32,
+    "word": "they",
+    "input_csv_line_number": "2180",
+    "input_csv_related_word": "THEY",
+    "similarity_score": "2.1579886e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "discussed",
+    "input_csv_line_number": "1497",
+    "input_csv_related_word": "GOSSIP",
+    "similarity_score": "0.49287146"
+  },
+  {
+    "word_start_position": 47,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "anchor",
+    "input_csv_line_number": "1297",
+    "input_csv_related_word": "JOURNALIST",
+    "similarity_score": "0.6284797"
+  },
+  {
+    "word_start_position": 58,
+    "word": "tattoos",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 66,
+    "word": "popular",
+    "input_csv_line_number": "403",
+    "input_csv_related_word": "POPULAR",
+    "similarity_score": "3.0623317e-13"
+  },
+  {
+    "word_start_position": 74,
+    "word": "among",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 80,
+    "word": "sailors.",
+    "input_csv_line_number": "NULL"
+  }
+]

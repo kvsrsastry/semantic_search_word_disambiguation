@@ -1,0 +1,111 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "bought",
+    "input_csv_line_number": "2665",
+    "input_csv_related_word": "BOUGHT",
+    "similarity_score": "2.089704e-13"
+  },
+  {
+    "word_start_position": 11,
+    "word": "hiking",
+    "input_csv_line_number": "1295",
+    "input_csv_related_word": "GROW",
+    "similarity_score": "5.1841945e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "gear",
+    "input_csv_line_number": "951",
+    "input_csv_related_word": "APPARATUS",
+    "similarity_score": "0.62853634"
+  },
+  {
+    "word_start_position": 23,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "mountain",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 37,
+    "word": "equipment",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 47,
+    "word": "co",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 53,
+    "word": "before",
+    "input_csv_line_number": "823",
+    "input_csv_related_word": "BEFORE",
+    "similarity_score": "1.6317351e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "heading",
+    "input_csv_line_number": "42",
+    "input_csv_related_word": "LEAD",
+    "similarity_score": "3.130979e-13"
+  },
+  {
+    "word_start_position": 68,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "nearby",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 82,
+    "word": "mountain",
+    "input_csv_line_number": "1748",
+    "input_csv_related_word": "MOUNTAIN",
+    "similarity_score": "1.6887811e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 95,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 97,
+    "word": "trek.",
+    "input_csv_line_number": "NULL"
+  }
+]

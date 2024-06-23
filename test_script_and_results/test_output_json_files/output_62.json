@@ -1,0 +1,82 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "jack",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "used",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 10,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "jack",
+    "input_csv_line_number": "4008",
+    "input_csv_related_word": "A LITTLE BIT",
+    "similarity_score": "0.6731442"
+  },
+  {
+    "word_start_position": 17,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "lift",
+    "input_csv_line_number": "3655",
+    "input_csv_related_word": "LIFTING",
+    "similarity_score": "0.19656591"
+  },
+  {
+    "word_start_position": 25,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "car",
+    "input_csv_line_number": "2079",
+    "input_csv_related_word": "CAR",
+    "similarity_score": "2.1663789e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "change",
+    "input_csv_line_number": "1852",
+    "input_csv_related_word": "CHANGE",
+    "similarity_score": "2.040658e-13"
+  },
+  {
+    "word_start_position": 44,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "tire.",
+    "input_csv_line_number": "NULL"
+  }
+]

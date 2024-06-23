@@ -1,0 +1,107 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "rock",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "kansas",
+    "input_csv_line_number": "413",
+    "input_csv_related_word": "KANSAS"
+  },
+  {
+    "word_start_position": 14,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 17,
+    "word": "known",
+    "input_csv_line_number": "2034",
+    "input_csv_related_word": "KNOW",
+    "similarity_score": "0.522189"
+  },
+  {
+    "word_start_position": 23,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 27,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 31,
+    "word": "scenic",
+    "input_csv_line_number": "1893",
+    "input_csv_related_word": "ADDRESS",
+    "similarity_score": "0.8375"
+  },
+  {
+    "word_start_position": 38,
+    "word": "landscapes,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 50,
+    "word": "especially",
+    "input_csv_line_number": "689",
+    "input_csv_related_word": "A LOT",
+    "similarity_score": "0.7321589"
+  },
+  {
+    "word_start_position": 61,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "large",
+    "input_csv_line_number": "2182",
+    "input_csv_related_word": "LARGEST",
+    "similarity_score": "2.2604344e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "rock",
+    "input_csv_line_number": "4073",
+    "input_csv_related_word": "ROCK",
+    "similarity_score": "2.5086037e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "formations",
+    "input_csv_line_number": "1362",
+    "input_csv_related_word": "GROUP",
+    "similarity_score": "0.6218101"
+  },
+  {
+    "word_start_position": 87,
+    "word": "dotting",
+    "input_csv_line_number": "3722",
+    "input_csv_related_word": "LINES",
+    "similarity_score": "0.56183213"
+  },
+  {
+    "word_start_position": 95,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 99,
+    "word": "area.",
+    "input_csv_line_number": "NULL"
+  }
+]

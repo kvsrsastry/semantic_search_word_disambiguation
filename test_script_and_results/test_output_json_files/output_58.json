@@ -1,0 +1,112 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "mount",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "texas",
+    "input_csv_line_number": "624",
+    "input_csv_related_word": "TEXAS"
+  },
+  {
+    "word_start_position": 14,
+    "word": "offers",
+    "input_csv_line_number": "3902",
+    "input_csv_related_word": "OFFERS",
+    "similarity_score": "2.4121848e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "great",
+    "input_csv_line_number": "1329",
+    "input_csv_related_word": "MORE THAN",
+    "similarity_score": "0.22419243"
+  },
+  {
+    "word_start_position": 27,
+    "word": "hiking",
+    "input_csv_line_number": "1295",
+    "input_csv_related_word": "GROW",
+    "similarity_score": "5.1841945e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "trails,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 42,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "couldn't",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 59,
+    "word": "wait",
+    "input_csv_line_number": "1777",
+    "input_csv_related_word": "WAIT",
+    "similarity_score": "2.112524e-13"
+  },
+  {
+    "word_start_position": 64,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "mount",
+    "input_csv_line_number": "2814",
+    "input_csv_related_word": "LAUNCH",
+    "similarity_score": "0.6161214"
+  },
+  {
+    "word_start_position": 73,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 77,
+    "word": "horse",
+    "input_csv_line_number": "775",
+    "input_csv_related_word": "HORSE",
+    "similarity_score": "1.7429638e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 87,
+    "word": "explore",
+    "input_csv_line_number": "673",
+    "input_csv_related_word": "EXPLORE",
+    "similarity_score": "3.0948527e-13"
+  },
+  {
+    "word_start_position": 95,
+    "word": "them.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "c",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "south",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 14,
+    "word": "carolina",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 24,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 27,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 33,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "clover",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 50,
+    "word": "fields",
+    "input_csv_line_number": "907",
+    "input_csv_related_word": "COMPANY",
+    "similarity_score": "0.34582254"
+  },
+  {
+    "word_start_position": 57,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "were",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 67,
+    "word": "once",
+    "input_csv_line_number": "2263",
+    "input_csv_related_word": "A MOMENT AGO",
+    "similarity_score": "0.43811715"
+  },
+  {
+    "word_start_position": 72,
+    "word": "abundant",
+    "input_csv_line_number": "1260",
+    "input_csv_related_word": "AMOUNT",
+    "similarity_score": "0.649669"
+  },
+  {
+    "word_start_position": 81,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "area.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "willow",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "sat",
+    "input_csv_line_number": "1548",
+    "input_csv_related_word": "CHAIR",
+    "similarity_score": "0.42048103"
+  },
+  {
+    "word_start_position": 11,
+    "word": "under",
+    "input_csv_line_number": "37",
+    "input_csv_related_word": "UNDER",
+    "similarity_score": "2.1739774e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "willow",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "tree,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 32,
+    "word": "enjoying",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 41,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 45,
+    "word": "peaceful",
+    "input_csv_line_number": "3336",
+    "input_csv_related_word": "FIGHT",
+    "similarity_score": "0.8570042"
+  },
+  {
+    "word_start_position": 54,
+    "word": "shade.",
+    "input_csv_line_number": "NULL"
+  }
+]

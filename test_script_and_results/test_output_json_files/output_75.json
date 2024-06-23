@@ -1,0 +1,61 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "river",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 12,
+    "word": "swimming",
+    "input_csv_line_number": "3469",
+    "input_csv_related_word": "SCUBA DIVING",
+    "similarity_score": "0.75838214"
+  },
+  {
+    "word_start_position": 21,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 24,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "river",
+    "input_csv_line_number": "1138",
+    "input_csv_related_word": "RIVER",
+    "similarity_score": "2.941809e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "near",
+    "input_csv_line_number": "3636",
+    "input_csv_related_word": "NEAR",
+    "similarity_score": "2.5610116e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "home.",
+    "input_csv_line_number": "NULL"
+  }
+]

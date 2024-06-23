@@ -1,0 +1,99 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "using",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 6,
+    "word": "sage",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "software",
+    "input_csv_line_number": "1911",
+    "input_csv_related_word": "SOFTWARE",
+    "similarity_score": "1.7133793e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 24,
+    "word": "accounting,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "brewed",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 47,
+    "word": "tea",
+    "input_csv_line_number": "2864",
+    "input_csv_related_word": "TEA",
+    "similarity_score": "2.0399841e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "fresh",
+    "input_csv_line_number": "2933",
+    "input_csv_related_word": "DRY",
+    "similarity_score": "0.69731146"
+  },
+  {
+    "word_start_position": 62,
+    "word": "sage",
+    "input_csv_line_number": "1350",
+    "input_csv_related_word": "SPICE",
+    "similarity_score": "0.84253645"
+  },
+  {
+    "word_start_position": 67,
+    "word": "leaves",
+    "input_csv_line_number": "404",
+    "input_csv_related_word": "LEAVE",
+    "similarity_score": "0.51818365"
+  },
+  {
+    "word_start_position": 74,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 79,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "garden.",
+    "input_csv_line_number": "NULL"
+  }
+]

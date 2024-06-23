@@ -1,0 +1,118 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "ash",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "north",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "carolina",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 21,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 25,
+    "word": "covered",
+    "input_csv_line_number": "888",
+    "input_csv_related_word": "PASS",
+    "similarity_score": "0.47521305"
+  },
+  {
+    "word_start_position": 33,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 38,
+    "word": "light",
+    "input_csv_line_number": "4052",
+    "input_csv_related_word": "LIGHT",
+    "similarity_score": "1.7114721e-13"
+  },
+  {
+    "word_start_position": 44,
+    "word": "layer",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 50,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "ash",
+    "input_csv_line_number": "1500",
+    "input_csv_related_word": "ASH",
+    "similarity_score": "2.0302202e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 63,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "small",
+    "input_csv_line_number": "2540",
+    "input_csv_related_word": "SMALL",
+    "similarity_score": "2.7878432e-13"
+  },
+  {
+    "word_start_position": 73,
+    "word": "forest",
+    "input_csv_line_number": "2586",
+    "input_csv_related_word": "FOREST",
+    "similarity_score": "2.2582426e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "fire",
+    "input_csv_line_number": "3100",
+    "input_csv_related_word": "FIRE",
+    "similarity_score": "1.6395139e-13"
+  },
+  {
+    "word_start_position": 85,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 89,
+    "word": "extinguished.",
+    "input_csv_line_number": "NULL"
+  }
+]

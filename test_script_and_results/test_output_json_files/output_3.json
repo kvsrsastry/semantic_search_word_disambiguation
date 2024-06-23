@@ -1,0 +1,80 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 6,
+    "word": "refueling",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 16,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "shell",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "collected",
+    "input_csv_line_number": "1543",
+    "input_csv_related_word": "COLLECT",
+    "similarity_score": "0.4826477"
+  },
+  {
+    "word_start_position": 39,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "shell",
+    "input_csv_line_number": "3711",
+    "input_csv_related_word": "BULLET",
+    "similarity_score": "0.4491436"
+  },
+  {
+    "word_start_position": 57,
+    "word": "on",
+    "input_csv_line_number": "3609",
+    "input_csv_related_word": "ON",
+    "similarity_score": "2.2797234e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 64,
+    "word": "beach.",
+    "input_csv_line_number": "NULL"
+  }
+]

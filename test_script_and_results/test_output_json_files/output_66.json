@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "reed",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "waded",
+    "input_csv_line_number": "1212",
+    "input_csv_related_word": "CROWD",
+    "similarity_score": "0.72897345"
+  },
+  {
+    "word_start_position": 11,
+    "word": "through",
+    "input_csv_line_number": "2794",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "1.8500043e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "marsh,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 30,
+    "word": "carefully",
+    "input_csv_line_number": "893",
+    "input_csv_related_word": "CAREFULLY",
+    "similarity_score": "5.107854e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "avoiding",
+    "input_csv_line_number": "3573",
+    "input_csv_related_word": "FASTING",
+    "similarity_score": "0.57477605"
+  },
+  {
+    "word_start_position": 49,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "tall",
+    "input_csv_line_number": "1191",
+    "input_csv_related_word": "TALL",
+    "similarity_score": "3.2771995e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "reeds.",
+    "input_csv_line_number": "NULL"
+  }
+]

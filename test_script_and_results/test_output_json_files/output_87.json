@@ -1,0 +1,64 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "walker",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "avid",
+    "input_csv_line_number": "4181",
+    "input_csv_related_word": "FOCUS",
+    "similarity_score": "0.6764195"
+  },
+  {
+    "word_start_position": 16,
+    "word": "walker,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 24,
+    "word": "enjoyed",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 32,
+    "word": "long",
+    "input_csv_line_number": "488",
+    "input_csv_related_word": "LONG",
+    "similarity_score": "2.4952257e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "hikes",
+    "input_csv_line_number": "1295",
+    "input_csv_related_word": "GROW",
+    "similarity_score": "0.79549325"
+  },
+  {
+    "word_start_position": 43,
+    "word": "through",
+    "input_csv_line_number": "2794",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "1.8500043e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "countryside.",
+    "input_csv_line_number": "NULL"
+  }
+]

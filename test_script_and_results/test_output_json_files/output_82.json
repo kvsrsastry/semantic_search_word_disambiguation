@@ -1,0 +1,64 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "skye",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "gazed",
+    "input_csv_line_number": "3477",
+    "input_csv_related_word": "LOOK",
+    "similarity_score": "0.86049974"
+  },
+  {
+    "word_start_position": 11,
+    "word": "up",
+    "input_csv_line_number": "1193",
+    "input_csv_related_word": "UP",
+    "similarity_score": "1.5833945e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "sky,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "marveling",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "stars.",
+    "input_csv_line_number": "NULL"
+  }
+]

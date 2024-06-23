@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "sawyer",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 10,
+    "word": "skilled",
+    "input_csv_line_number": "621",
+    "input_csv_related_word": "SKILLED",
+    "similarity_score": "1.5097999e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "sawyer,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "worked",
+    "input_csv_line_number": "3678",
+    "input_csv_related_word": "START",
+    "similarity_score": "0.48205334"
+  },
+  {
+    "word_start_position": 33,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "lumberyard",
+    "input_csv_line_number": "4157",
+    "input_csv_related_word": "SHOP",
+    "similarity_score": "0.8394641"
+  },
+  {
+    "word_start_position": 51,
+    "word": "cutting",
+    "input_csv_line_number": "478",
+    "input_csv_related_word": "DEAL",
+    "similarity_score": "0.6755302"
+  },
+  {
+    "word_start_position": 59,
+    "word": "timber.",
+    "input_csv_line_number": "NULL"
+  }
+]

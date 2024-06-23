@@ -1,0 +1,116 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "serene",
+    "input_csv_line_number": "3134",
+    "input_csv_related_word": "SEE-THROUGH",
+    "similarity_score": "0.8605679"
+  },
+  {
+    "word_start_position": 11,
+    "word": "beauty",
+    "input_csv_line_number": "2130",
+    "input_csv_related_word": "ATTRACTIVE",
+    "similarity_score": "0.556648"
+  },
+  {
+    "word_start_position": 18,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "bay",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "arkansas",
+    "input_csv_line_number": "3467",
+    "input_csv_related_word": "ARKANSAS"
+  },
+  {
+    "word_start_position": 36,
+    "word": "reminded",
+    "input_csv_line_number": "1878",
+    "input_csv_related_word": "DECIDE",
+    "similarity_score": "0.6866586"
+  },
+  {
+    "word_start_position": 45,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 49,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "peaceful",
+    "input_csv_line_number": "3336",
+    "input_csv_related_word": "FIGHT",
+    "similarity_score": "0.8570042"
+  },
+  {
+    "word_start_position": 65,
+    "word": "bay",
+    "input_csv_line_number": "3355",
+    "input_csv_related_word": "BAY",
+    "similarity_score": "2.4281968e-13"
+  },
+  {
+    "word_start_position": 69,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 79,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 85,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "kayak.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "arrow",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 10,
+    "word": "electronics",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 22,
+    "word": "logo",
+    "input_csv_line_number": "2781",
+    "input_csv_related_word": "SYMBOL",
+    "similarity_score": "0.8828937"
+  },
+  {
+    "word_start_position": 27,
+    "word": "featured",
+    "input_csv_line_number": "3486",
+    "input_csv_related_word": "MODEL",
+    "similarity_score": "0.87332714"
+  },
+  {
+    "word_start_position": 36,
+    "word": "prominently",
+    "input_csv_line_number": "960",
+    "input_csv_related_word": "ASTOUNDING",
+    "similarity_score": "0.8861599"
+  },
+  {
+    "word_start_position": 48,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "archery",
+    "input_csv_line_number": "438",
+    "input_csv_related_word": "ARCHERY",
+    "similarity_score": "1.5894317e-13"
+  },
+  {
+    "word_start_position": 63,
+    "word": "event,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 70,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "nocked",
+    "input_csv_line_number": "2144",
+    "input_csv_related_word": "WRITE",
+    "similarity_score": "0.6553986"
+  },
+  {
+    "word_start_position": 87,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 90,
+    "word": "arrow",
+    "input_csv_line_number": "3497",
+    "input_csv_related_word": "ARROW",
+    "similarity_score": "1.8697771e-13"
+  },
+  {
+    "word_start_position": 96,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 99,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 103,
+    "word": "bow.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "harper",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 10,
+    "word": "talented",
+    "input_csv_line_number": "259",
+    "input_csv_related_word": "IMPRESSIVE",
+    "similarity_score": "0.8439456"
+  },
+  {
+    "word_start_position": 19,
+    "word": "harper,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "captivated",
+    "input_csv_line_number": "61",
+    "input_csv_related_word": "ATTRACTION",
+    "similarity_score": "0.65467596"
+  },
+  {
+    "word_start_position": 38,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "audience",
+    "input_csv_line_number": "215",
+    "input_csv_related_word": "AUDIENCE",
+    "similarity_score": "2.0810969e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "melodies",
+    "input_csv_line_number": "NULL"
+  }
+]

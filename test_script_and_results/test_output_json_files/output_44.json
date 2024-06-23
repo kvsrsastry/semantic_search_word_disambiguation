@@ -1,0 +1,91 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 3,
+    "word": "clay",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 9,
+    "word": "alabama",
+    "input_csv_line_number": "182",
+    "input_csv_related_word": "ALABAMA"
+  },
+  {
+    "word_start_position": 18,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 22,
+    "word": "local",
+    "input_csv_line_number": "1111",
+    "input_csv_related_word": "LOCAL",
+    "similarity_score": "3.223486e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "pottery",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "studio",
+    "input_csv_line_number": "543",
+    "input_csv_related_word": "PRACTITIONER",
+    "similarity_score": "0.81916374"
+  },
+  {
+    "word_start_position": 43,
+    "word": "showcased",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 53,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 63,
+    "word": "creations",
+    "input_csv_line_number": "3678",
+    "input_csv_related_word": "START",
+    "similarity_score": "0.7146241"
+  },
+  {
+    "word_start_position": 73,
+    "word": "made",
+    "input_csv_line_number": "2783",
+    "input_csv_related_word": "MADE",
+    "similarity_score": "2.7623165e-13"
+  },
+  {
+    "word_start_position": 78,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "rich",
+    "input_csv_line_number": "2206",
+    "input_csv_related_word": "RICH",
+    "similarity_score": "2.9399074e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "clay.",
+    "input_csv_line_number": "NULL"
+  }
+]

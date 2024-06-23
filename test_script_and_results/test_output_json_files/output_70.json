@@ -1,0 +1,59 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "mason",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 9,
+    "word": "skilled",
+    "input_csv_line_number": "621",
+    "input_csv_related_word": "SKILLED",
+    "similarity_score": "1.5097999e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "mason,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 24,
+    "word": "built",
+    "input_csv_line_number": "769",
+    "input_csv_related_word": "CONCEPT",
+    "similarity_score": "0.48726517"
+  },
+  {
+    "word_start_position": 30,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "stone",
+    "input_csv_line_number": "4073",
+    "input_csv_related_word": "ROCK",
+    "similarity_score": "0.47027194"
+  },
+  {
+    "word_start_position": 48,
+    "word": "wall.",
+    "input_csv_line_number": "NULL"
+  }
+]

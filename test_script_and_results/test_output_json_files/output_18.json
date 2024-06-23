@@ -1,0 +1,89 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "used",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 9,
+    "word": "dove",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 14,
+    "word": "soap",
+    "input_csv_line_number": "2423",
+    "input_csv_related_word": "SOAP",
+    "similarity_score": "1.9587699e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "watching",
+    "input_csv_line_number": "3919",
+    "input_csv_related_word": "NOTICE",
+    "similarity_score": "0.33639464"
+  },
+  {
+    "word_start_position": 34,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "dove",
+    "input_csv_line_number": "567",
+    "input_csv_related_word": "EAGLE",
+    "similarity_score": "0.81362927"
+  },
+  {
+    "word_start_position": 41,
+    "word": "perch",
+    "input_csv_line_number": "1410",
+    "input_csv_related_word": "UNDER THE SEAT",
+    "similarity_score": "0.6988566"
+  },
+  {
+    "word_start_position": 47,
+    "word": "on",
+    "input_csv_line_number": "3609",
+    "input_csv_related_word": "ON",
+    "similarity_score": "2.2797234e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 54,
+    "word": "window",
+    "input_csv_line_number": "3133",
+    "input_csv_related_word": "WINDOWS",
+    "similarity_score": "2.5144153e-13"
+  },
+  {
+    "word_start_position": 61,
+    "word": "sill.",
+    "input_csv_line_number": "NULL"
+  }
+]

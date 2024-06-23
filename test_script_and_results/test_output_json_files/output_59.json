@@ -1,0 +1,149 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "page",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "arizona",
+    "input_csv_line_number": "3958",
+    "input_csv_related_word": "ARIZONA"
+  },
+  {
+    "word_start_position": 15,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 18,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "popular",
+    "input_csv_line_number": "403",
+    "input_csv_related_word": "POPULAR",
+    "similarity_score": "3.0623317e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "tourist",
+    "input_csv_line_number": "3768",
+    "input_csv_related_word": "TOUR",
+    "similarity_score": "0.6750058"
+  },
+  {
+    "word_start_position": 36,
+    "word": "destination,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 49,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "eagerly",
+    "input_csv_line_number": "1335",
+    "input_csv_related_word": "EXCITED",
+    "similarity_score": "0.6496552"
+  },
+  {
+    "word_start_position": 65,
+    "word": "turned",
+    "input_csv_line_number": "2496",
+    "input_csv_related_word": "TURN",
+    "similarity_score": "0.21364205"
+  },
+  {
+    "word_start_position": 72,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "page",
+    "input_csv_line_number": "1029",
+    "input_csv_related_word": "PAGE",
+    "similarity_score": "3.0484144e-13"
+  },
+  {
+    "word_start_position": 81,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "travel",
+    "input_csv_line_number": "1415",
+    "input_csv_related_word": "TRAVEL TO",
+    "similarity_score": "2.448199e-13"
+  },
+  {
+    "word_start_position": 95,
+    "word": "guide",
+    "input_csv_line_number": "3087",
+    "input_csv_related_word": "BOSS",
+    "similarity_score": "0.5861492"
+  },
+  {
+    "word_start_position": 101,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 104,
+    "word": "learn",
+    "input_csv_line_number": "121",
+    "input_csv_related_word": "LEARN",
+    "similarity_score": "2.4367124e-13"
+  },
+  {
+    "word_start_position": 110,
+    "word": "more",
+    "input_csv_line_number": "752",
+    "input_csv_related_word": "MORE",
+    "similarity_score": "3.455181e-13"
+  },
+  {
+    "word_start_position": 115,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 121,
+    "word": "it.",
+    "input_csv_line_number": "NULL"
+  }
+]

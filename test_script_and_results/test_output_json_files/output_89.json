@@ -1,0 +1,80 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "pop",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "favorite",
+    "input_csv_line_number": "3511",
+    "input_csv_related_word": "FAVORITE",
+    "similarity_score": "5.5781844e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "flower",
+    "input_csv_line_number": "236",
+    "input_csv_related_word": "FLOWER",
+    "similarity_score": "2.4638982e-13"
+  },
+  {
+    "word_start_position": 24,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 28,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "bright",
+    "input_csv_line_number": "3702",
+    "input_csv_related_word": "BRIGHT",
+    "similarity_score": "2.9011879e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "red",
+    "input_csv_line_number": "564",
+    "input_csv_related_word": "RED",
+    "similarity_score": "2.4103413e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "poppy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 49,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 54,
+    "word": "bloomed",
+    "input_csv_line_number": "4168",
+    "input_csv_related_word": "BLOSSOM",
+    "similarity_score": "0.7435368"
+  },
+  {
+    "word_start_position": 62,
+    "word": "every",
+    "input_csv_line_number": "2562",
+    "input_csv_related_word": "EVERY",
+    "similarity_score": "2.803741e-13"
+  },
+  {
+    "word_start_position": 68,
+    "word": "spring.",
+    "input_csv_line_number": "NULL"
+  }
+]

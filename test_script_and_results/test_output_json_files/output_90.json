@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "colt",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "watched",
+    "input_csv_line_number": "2799",
+    "input_csv_related_word": "WATCH",
+    "similarity_score": "2.408662e-13"
+  },
+  {
+    "word_start_position": 13,
+    "word": "as",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "0.38972145"
+  },
+  {
+    "word_start_position": 16,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "young",
+    "input_csv_line_number": "2039",
+    "input_csv_related_word": "ANIMAL",
+    "similarity_score": "0.89076996"
+  },
+  {
+    "word_start_position": 26,
+    "word": "colt",
+    "input_csv_line_number": "3711",
+    "input_csv_related_word": "BULLET",
+    "similarity_score": "0.84507465"
+  },
+  {
+    "word_start_position": 31,
+    "word": "galloped",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 40,
+    "word": "across",
+    "input_csv_line_number": "357",
+    "input_csv_related_word": "ACROSS",
+    "similarity_score": "2.4057102e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "meadow.",
+    "input_csv_line_number": "NULL"
+  }
+]

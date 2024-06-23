@@ -1,0 +1,80 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "parker",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "used",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 12,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "parker",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 21,
+    "word": "tool",
+    "input_csv_line_number": "900",
+    "input_csv_related_word": "BE IN CHARGE OF ",
+    "similarity_score": "0.7142209"
+  },
+  {
+    "word_start_position": 26,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "compress",
+    "input_csv_line_number": "2175",
+    "input_csv_related_word": "HUG OBJECT",
+    "similarity_score": "0.7088238"
+  },
+  {
+    "word_start_position": 38,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "clay",
+    "input_csv_line_number": "3001",
+    "input_csv_related_word": "PHYSICAL",
+    "similarity_score": "0.76589227"
+  },
+  {
+    "word_start_position": 47,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "sculpture.",
+    "input_csv_line_number": "NULL"
+  }
+]

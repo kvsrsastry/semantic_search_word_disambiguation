@@ -1,0 +1,133 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "small",
+    "input_csv_line_number": "2540",
+    "input_csv_related_word": "SMALL",
+    "similarity_score": "2.7878432e-13"
+  },
+  {
+    "word_start_position": 10,
+    "word": "town",
+    "input_csv_line_number": "4191",
+    "input_csv_related_word": "NEIGHBORHOOD",
+    "similarity_score": "0.8308028"
+  },
+  {
+    "word_start_position": 15,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "port",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 24,
+    "word": "oklahoma",
+    "input_csv_line_number": "2682",
+    "input_csv_related_word": "OKLAHOMA"
+  },
+  {
+    "word_start_position": 34,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 37,
+    "word": "known",
+    "input_csv_line_number": "2034",
+    "input_csv_related_word": "KNOW",
+    "similarity_score": "0.522189"
+  },
+  {
+    "word_start_position": 43,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 51,
+    "word": "picturesque",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 63,
+    "word": "port",
+    "input_csv_line_number": "1962",
+    "input_csv_related_word": "WINDOWS",
+    "similarity_score": "0.76587814"
+  },
+  {
+    "word_start_position": 68,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "local",
+    "input_csv_line_number": "1111",
+    "input_csv_related_word": "LOCAL",
+    "similarity_score": "3.223486e-13"
+  },
+  {
+    "word_start_position": 78,
+    "word": "wineries",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 87,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 92,
+    "word": "produce",
+    "input_csv_line_number": "3678",
+    "input_csv_related_word": "START",
+    "similarity_score": "0.40687028"
+  },
+  {
+    "word_start_position": 100,
+    "word": "excellent",
+    "input_csv_line_number": "2853",
+    "input_csv_related_word": "ALRIGHT",
+    "similarity_score": "0.7248713"
+  },
+  {
+    "word_start_position": 110,
+    "word": "port",
+    "input_csv_line_number": "1962",
+    "input_csv_related_word": "WINDOWS",
+    "similarity_score": "0.76587814"
+  },
+  {
+    "word_start_position": 115,
+    "word": "wine.",
+    "input_csv_line_number": "NULL"
+  }
+]

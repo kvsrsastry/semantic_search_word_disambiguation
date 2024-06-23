@@ -1,0 +1,78 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "rosemary",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 10,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 16,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 22,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "herb",
+    "input_csv_line_number": "1350",
+    "input_csv_related_word": "SPICE",
+    "similarity_score": "0.85303336"
+  },
+  {
+    "word_start_position": 31,
+    "word": "rosemary,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 41,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 47,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "cook",
+    "input_csv_line_number": "786",
+    "input_csv_related_word": "COOK",
+    "similarity_score": "3.4326692e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "aromatic",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 69,
+    "word": "herbs.",
+    "input_csv_line_number": "NULL"
+  }
+]

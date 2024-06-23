@@ -1,0 +1,87 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 6,
+    "word": "shopping",
+    "input_csv_line_number": "1039",
+    "input_csv_related_word": "PURCHASE",
+    "similarity_score": "0.71368754"
+  },
+  {
+    "word_start_position": 15,
+    "word": "at",
+    "input_csv_line_number": "1486",
+    "input_csv_related_word": "AT",
+    "similarity_score": "2.281422e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "target",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 30,
+    "word": "set",
+    "input_csv_line_number": "2249",
+    "input_csv_related_word": "GUESS",
+    "similarity_score": "0.2865695"
+  },
+  {
+    "word_start_position": 34,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "target",
+    "input_csv_line_number": "2222",
+    "input_csv_related_word": "ANTAGONIST",
+    "similarity_score": "0.52368236"
+  },
+  {
+    "word_start_position": 43,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "only",
+    "input_csv_line_number": "2876",
+    "input_csv_related_word": "ONLY",
+    "similarity_score": "4.904655e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "buy",
+    "input_csv_line_number": "1153",
+    "input_csv_related_word": "BOUGHT",
+    "similarity_score": "2.089704e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "eco-friendly",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 68,
+    "word": "products.",
+    "input_csv_line_number": "NULL"
+  }
+]

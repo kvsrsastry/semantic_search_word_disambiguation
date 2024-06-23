@@ -1,0 +1,115 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "star",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 9,
+    "word": "alliance",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 18,
+    "word": "flight",
+    "input_csv_line_number": "1109",
+    "input_csv_related_word": "FLIGHT",
+    "similarity_score": "2.0279065e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "passed",
+    "input_csv_line_number": "888",
+    "input_csv_related_word": "PASS",
+    "similarity_score": "0.28503087"
+  },
+  {
+    "word_start_position": 32,
+    "word": "over",
+    "input_csv_line_number": "1107",
+    "input_csv_related_word": "OVER",
+    "similarity_score": "2.1478514e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "sky",
+    "input_csv_line_number": "307",
+    "input_csv_related_word": "SKY",
+    "similarity_score": "2.2544884e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "full",
+    "input_csv_line_number": "108",
+    "input_csv_related_word": "FULL",
+    "similarity_score": "2.0259169e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "stars",
+    "input_csv_line_number": "2785",
+    "input_csv_related_word": "STARS",
+    "similarity_score": "2.0916432e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "on",
+    "input_csv_line_number": "3609",
+    "input_csv_related_word": "ON",
+    "similarity_score": "2.2797234e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 64,
+    "word": "way",
+    "input_csv_line_number": "648",
+    "input_csv_related_word": "TRAVEL TO",
+    "similarity_score": "0.4805225"
+  },
+  {
+    "word_start_position": 68,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "destination.",
+    "input_csv_line_number": "NULL"
+  }
+]

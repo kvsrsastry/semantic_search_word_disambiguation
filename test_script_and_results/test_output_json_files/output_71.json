@@ -1,0 +1,87 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "summer,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 14,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 24,
+    "word": "warmest",
+    "input_csv_line_number": "166",
+    "input_csv_related_word": "LOVE",
+    "similarity_score": "0.44083762"
+  },
+  {
+    "word_start_position": 32,
+    "word": "season,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 40,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 44,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "favorite",
+    "input_csv_line_number": "3511",
+    "input_csv_related_word": "FAVORITE",
+    "similarity_score": "5.5781844e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "time",
+    "input_csv_line_number": "3313",
+    "input_csv_related_word": "TIME",
+    "similarity_score": "2.5379953e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 69,
+    "word": "year.",
+    "input_csv_line_number": "NULL"
+  }
+]

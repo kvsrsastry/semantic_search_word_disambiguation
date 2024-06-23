@@ -1,0 +1,94 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "cat",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 12,
+    "word": "inc",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 17,
+    "word": "unveiled",
+    "input_csv_line_number": "101",
+    "input_csv_related_word": "APPEAR",
+    "similarity_score": "0.40400502"
+  },
+  {
+    "word_start_position": 26,
+    "word": "their",
+    "input_csv_line_number": "475",
+    "input_csv_related_word": "THEIR",
+    "similarity_score": "3.091477e-13"
+  },
+  {
+    "word_start_position": 32,
+    "word": "new",
+    "input_csv_line_number": "289",
+    "input_csv_related_word": "NEW",
+    "similarity_score": "3.8175428e-13"
+  },
+  {
+    "word_start_position": 36,
+    "word": "tractor",
+    "input_csv_line_number": "3920",
+    "input_csv_related_word": "TRUCK",
+    "similarity_score": "0.66364384"
+  },
+  {
+    "word_start_position": 44,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "caterpillar",
+    "input_csv_line_number": "3920",
+    "input_csv_related_word": "TRUCK",
+    "similarity_score": "0.81920534"
+  },
+  {
+    "word_start_position": 64,
+    "word": "crawled",
+    "input_csv_line_number": "1888",
+    "input_csv_related_word": "CRAWL",
+    "similarity_score": "0.54504466"
+  },
+  {
+    "word_start_position": 72,
+    "word": "across",
+    "input_csv_line_number": "357",
+    "input_csv_related_word": "ACROSS",
+    "similarity_score": "2.4057102e-13"
+  },
+  {
+    "word_start_position": 79,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "showroom",
+    "input_csv_line_number": "3502",
+    "input_csv_related_word": "MALL",
+    "similarity_score": "0.8436453"
+  },
+  {
+    "word_start_position": 92,
+    "word": "floor.",
+    "input_csv_line_number": "NULL"
+  }
+]

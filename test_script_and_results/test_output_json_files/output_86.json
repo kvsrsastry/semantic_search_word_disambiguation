@@ -1,0 +1,68 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "olive",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "picked",
+    "input_csv_line_number": "243",
+    "input_csv_related_word": "PRICE",
+    "similarity_score": "0.36005765"
+  },
+  {
+    "word_start_position": 13,
+    "word": "fresh",
+    "input_csv_line_number": "2933",
+    "input_csv_related_word": "DRY",
+    "similarity_score": "0.69731146"
+  },
+  {
+    "word_start_position": 19,
+    "word": "olives",
+    "input_csv_line_number": "2248",
+    "input_csv_related_word": "ORANGE",
+    "similarity_score": "0.5860052"
+  },
+  {
+    "word_start_position": 26,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 31,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 35,
+    "word": "tree",
+    "input_csv_line_number": "601",
+    "input_csv_related_word": "TREE",
+    "similarity_score": "3.1541807e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "backyard.",
+    "input_csv_line_number": "NULL"
+  }
+]

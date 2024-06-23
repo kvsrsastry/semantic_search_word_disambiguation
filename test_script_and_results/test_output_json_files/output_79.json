@@ -1,0 +1,76 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "forest",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "who",
+    "input_csv_line_number": "1984",
+    "input_csv_related_word": "WHO",
+    "similarity_score": "3.0053992e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "grew",
+    "input_csv_line_number": "919",
+    "input_csv_related_word": "EXPANSION",
+    "similarity_score": "0.48790568"
+  },
+  {
+    "word_start_position": 17,
+    "word": "up",
+    "input_csv_line_number": "1193",
+    "input_csv_related_word": "UP",
+    "similarity_score": "1.5833945e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "near",
+    "input_csv_line_number": "3636",
+    "input_csv_related_word": "NEAR",
+    "similarity_score": "2.5610116e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 27,
+    "word": "forest,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 35,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 41,
+    "word": "hiking",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 48,
+    "word": "among",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 54,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "trees.",
+    "input_csv_line_number": "NULL"
+  }
+]

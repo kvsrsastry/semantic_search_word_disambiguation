@@ -1,0 +1,110 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "mechanic",
+    "input_csv_line_number": "3836",
+    "input_csv_related_word": "MECHANIC",
+    "similarity_score": "1.8921059e-13"
+  },
+  {
+    "word_start_position": 13,
+    "word": "drove",
+    "input_csv_line_number": "1064",
+    "input_csv_related_word": "DROVE",
+    "similarity_score": "2.8033614e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "ford",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "work",
+    "input_csv_line_number": "4135",
+    "input_csv_related_word": "WORK",
+    "similarity_score": "1.8006812e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "used",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 48,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "ford",
+    "input_csv_line_number": "3717",
+    "input_csv_related_word": "BROOK",
+    "similarity_score": "0.65904576"
+  },
+  {
+    "word_start_position": 55,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "shape",
+    "input_csv_line_number": "3905",
+    "input_csv_related_word": "CIRCLE",
+    "similarity_score": "0.6515541"
+  },
+  {
+    "word_start_position": 64,
+    "word": "metal",
+    "input_csv_line_number": "2856",
+    "input_csv_related_word": "HYBRID",
+    "similarity_score": "0.7119325"
+  },
+  {
+    "word_start_position": 70,
+    "word": "parts.",
+    "input_csv_line_number": "NULL"
+  }
+]

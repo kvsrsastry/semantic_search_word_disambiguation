@@ -1,0 +1,94 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 3,
+    "word": "drove",
+    "input_csv_line_number": "1064",
+    "input_csv_related_word": "DROVE",
+    "similarity_score": "2.8033614e-13"
+  },
+  {
+    "word_start_position": 9,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 11,
+    "word": "cadillac",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 20,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 27,
+    "word": "gala,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 33,
+    "word": "feeling",
+    "input_csv_line_number": "2807",
+    "input_csv_related_word": "FEELING",
+    "similarity_score": "2.6982474e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "as",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "0.38972145"
+  },
+  {
+    "word_start_position": 44,
+    "word": "luxurious",
+    "input_csv_line_number": "256",
+    "input_csv_related_word": "SUPERIOR",
+    "similarity_score": "0.65914124"
+  },
+  {
+    "word_start_position": 54,
+    "word": "as",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "0.38972145"
+  },
+  {
+    "word_start_position": 57,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 61,
+    "word": "name",
+    "input_csv_line_number": "1168",
+    "input_csv_related_word": "NAME",
+    "similarity_score": "2.0117814e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "suggests.",
+    "input_csv_line_number": "NULL"
+  }
+]

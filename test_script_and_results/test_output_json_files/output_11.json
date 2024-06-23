@@ -1,0 +1,85 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 6,
+    "word": "completing",
+    "input_csv_line_number": "3005",
+    "input_csv_related_word": "END",
+    "similarity_score": "0.35133404"
+  },
+  {
+    "word_start_position": 17,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "sprint",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 28,
+    "word": "marathon,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 38,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "called",
+    "input_csv_line_number": "726",
+    "input_csv_related_word": "CALLED",
+    "similarity_score": "5.9332335e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "friends",
+    "input_csv_line_number": "2940",
+    "input_csv_related_word": "STRANGER",
+    "similarity_score": "0.5721111"
+  },
+  {
+    "word_start_position": 60,
+    "word": "using",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 66,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "sprint",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 77,
+    "word": "service.",
+    "input_csv_line_number": "NULL"
+  }
+]

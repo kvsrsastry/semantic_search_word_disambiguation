@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "mars",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "incorporated",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 19,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 22,
+    "word": "famous",
+    "input_csv_line_number": "811",
+    "input_csv_related_word": "FAMOUS",
+    "similarity_score": "3.0508988e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "their",
+    "input_csv_line_number": "475",
+    "input_csv_related_word": "THEIR",
+    "similarity_score": "3.091477e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "chocolates,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 51,
+    "word": "but",
+    "input_csv_line_number": "504",
+    "input_csv_related_word": "BUT",
+    "similarity_score": "3.7790571e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "mars",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 61,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "planet,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 73,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 76,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 78,
+    "word": "completely",
+    "input_csv_line_number": "141",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "0.47854966"
+  },
+  {
+    "word_start_position": 89,
+    "word": "different",
+    "input_csv_line_number": "2546",
+    "input_csv_related_word": "DIFFERENT",
+    "similarity_score": "2.0508909e-13"
+  },
+  {
+    "word_start_position": 99,
+    "word": "fascination.",
+    "input_csv_line_number": "NULL"
+  }
+]

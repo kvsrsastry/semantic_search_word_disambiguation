@@ -1,0 +1,130 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "residents",
+    "input_csv_line_number": "641",
+    "input_csv_related_word": "HOME",
+    "similarity_score": "0.70418715"
+  },
+  {
+    "word_start_position": 14,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "fair",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "virginia",
+    "input_csv_line_number": "1732",
+    "input_csv_related_word": "VIRGINIA"
+  },
+  {
+    "word_start_position": 33,
+    "word": "are",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 37,
+    "word": "known",
+    "input_csv_line_number": "2034",
+    "input_csv_related_word": "KNOW",
+    "similarity_score": "0.522189"
+  },
+  {
+    "word_start_position": 43,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "their",
+    "input_csv_line_number": "475",
+    "input_csv_related_word": "THEIR",
+    "similarity_score": "3.091477e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "fair",
+    "input_csv_line_number": "1672",
+    "input_csv_related_word": "FAIR",
+    "similarity_score": "2.6241975e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "treatment",
+    "input_csv_line_number": "2924",
+    "input_csv_related_word": "ADMINISTER",
+    "similarity_score": "0.54667914"
+  },
+  {
+    "word_start_position": 68,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "all",
+    "input_csv_line_number": "1392",
+    "input_csv_related_word": "ALL",
+    "similarity_score": "3.2025996e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "visitors",
+    "input_csv_line_number": "3491",
+    "input_csv_related_word": "VISITOR",
+    "similarity_score": "0.3172325"
+  },
+  {
+    "word_start_position": 84,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 95,
+    "word": "annual",
+    "input_csv_line_number": "4063",
+    "input_csv_related_word": "ANNUAL",
+    "similarity_score": "2.3082884e-13"
+  },
+  {
+    "word_start_position": 102,
+    "word": "community",
+    "input_csv_line_number": "3560",
+    "input_csv_related_word": "COMMUNITY",
+    "similarity_score": "2.5235402e-13"
+  },
+  {
+    "word_start_position": 112,
+    "word": "event.",
+    "input_csv_line_number": "NULL"
+  }
+]

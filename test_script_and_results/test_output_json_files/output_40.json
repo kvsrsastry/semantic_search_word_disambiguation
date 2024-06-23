@@ -1,0 +1,107 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 7,
+    "word": "spring",
+    "input_csv_line_number": "3461",
+    "input_csv_related_word": "SPRING",
+    "similarity_score": "1.9014114e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "break,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 21,
+    "word": "they",
+    "input_csv_line_number": "2180",
+    "input_csv_related_word": "THEY",
+    "similarity_score": "2.1579886e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "traveled",
+    "input_csv_line_number": "648",
+    "input_csv_related_word": "TRAVEL TO",
+    "similarity_score": "0.47267443"
+  },
+  {
+    "word_start_position": 35,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 38,
+    "word": "spring",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 46,
+    "word": "texas",
+    "input_csv_line_number": "624",
+    "input_csv_related_word": "TEXAS"
+  },
+  {
+    "word_start_position": 53,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 56,
+    "word": "enjoy",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "2.7214797e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "weather",
+    "input_csv_line_number": "368",
+    "input_csv_related_word": "WEATHER",
+    "similarity_score": "2.9022745e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "local",
+    "input_csv_line_number": "1111",
+    "input_csv_related_word": "LOCAL",
+    "similarity_score": "3.223486e-13"
+  },
+  {
+    "word_start_position": 94,
+    "word": "attractions.",
+    "input_csv_line_number": "NULL"
+  }
+]

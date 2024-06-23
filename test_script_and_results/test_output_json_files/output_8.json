@@ -1,0 +1,120 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "they",
+    "input_csv_line_number": "2180",
+    "input_csv_related_word": "THEY",
+    "similarity_score": "2.1579886e-13"
+  },
+  {
+    "word_start_position": 5,
+    "word": "met",
+    "input_csv_line_number": "1272",
+    "input_csv_related_word": "GATHER",
+    "similarity_score": "3.274263e-13"
+  },
+  {
+    "word_start_position": 9,
+    "word": "through",
+    "input_csv_line_number": "2794",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "1.8500043e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "match",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "group",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 29,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "celebrated",
+    "input_csv_line_number": "2841",
+    "input_csv_related_word": "ARROGANT",
+    "similarity_score": "0.76515484"
+  },
+  {
+    "word_start_position": 44,
+    "word": "their",
+    "input_csv_line_number": "475",
+    "input_csv_related_word": "THEIR",
+    "similarity_score": "3.091477e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "anniversary",
+    "input_csv_line_number": "1040",
+    "input_csv_related_word": "ANNIVERSARY",
+    "similarity_score": "1.9608502e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "by",
+    "input_csv_line_number": "1331",
+    "input_csv_related_word": "BY",
+    "similarity_score": "3.6753445e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "lighting",
+    "input_csv_line_number": "3100",
+    "input_csv_related_word": "FIRE",
+    "similarity_score": "0.5896239"
+  },
+  {
+    "word_start_position": 74,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "match",
+    "input_csv_line_number": "2035",
+    "input_csv_related_word": "MATCH",
+    "similarity_score": "2.1982038e-13"
+  },
+  {
+    "word_start_position": 82,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 85,
+    "word": "start",
+    "input_csv_line_number": "3678",
+    "input_csv_related_word": "START",
+    "similarity_score": "2.3753463e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 93,
+    "word": "cozy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 98,
+    "word": "campfire.",
+    "input_csv_line_number": "NULL"
+  }
+]

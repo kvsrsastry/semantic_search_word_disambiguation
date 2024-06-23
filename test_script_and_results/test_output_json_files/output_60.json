@@ -1,0 +1,119 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "pine",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "colorado",
+    "input_csv_line_number": "950",
+    "input_csv_related_word": "COLORADO"
+  },
+  {
+    "word_start_position": 16,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 19,
+    "word": "surrounded",
+    "input_csv_line_number": "1246",
+    "input_csv_related_word": "COVER",
+    "similarity_score": "0.759686"
+  },
+  {
+    "word_start_position": 30,
+    "word": "by",
+    "input_csv_line_number": "1331",
+    "input_csv_related_word": "BY",
+    "similarity_score": "3.6753445e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "dense",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 39,
+    "word": "pine",
+    "input_csv_line_number": "2695",
+    "input_csv_related_word": "WANT",
+    "similarity_score": "0.48103023"
+  },
+  {
+    "word_start_position": 44,
+    "word": "forests,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 53,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "many",
+    "input_csv_line_number": "447",
+    "input_csv_related_word": "MANY",
+    "similarity_score": "3.1086605e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "visitors",
+    "input_csv_line_number": "3491",
+    "input_csv_related_word": "VISITOR",
+    "similarity_score": "0.3172325"
+  },
+  {
+    "word_start_position": 71,
+    "word": "come",
+    "input_csv_line_number": "2537",
+    "input_csv_related_word": "COME HERE",
+    "similarity_score": "3.0646937e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 79,
+    "word": "pine",
+    "input_csv_line_number": "2695",
+    "input_csv_related_word": "WANT",
+    "similarity_score": "0.48103023"
+  },
+  {
+    "word_start_position": 84,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 92,
+    "word": "simple",
+    "input_csv_line_number": "3350",
+    "input_csv_related_word": "SIMPLE",
+    "similarity_score": "3.2969206e-13"
+  },
+  {
+    "word_start_position": 99,
+    "word": "life.",
+    "input_csv_line_number": "NULL"
+  }
+]

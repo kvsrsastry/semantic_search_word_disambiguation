@@ -1,0 +1,100 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "plain,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "washington",
+    "input_csv_line_number": "190",
+    "input_csv_related_word": "WASHINGTON"
+  },
+  {
+    "word_start_position": 19,
+    "word": "offers",
+    "input_csv_line_number": "3902",
+    "input_csv_related_word": "OFFERS",
+    "similarity_score": "2.4121848e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "simple",
+    "input_csv_line_number": "3350",
+    "input_csv_related_word": "SIMPLE",
+    "similarity_score": "3.2969206e-13"
+  },
+  {
+    "word_start_position": 35,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 39,
+    "word": "quiet",
+    "input_csv_line_number": "2823",
+    "input_csv_related_word": "LOUD",
+    "similarity_score": "0.8384923"
+  },
+  {
+    "word_start_position": 45,
+    "word": "lifestyle,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 56,
+    "word": "much",
+    "input_csv_line_number": "2906",
+    "input_csv_related_word": "MUCH",
+    "similarity_score": "3.0508246e-13"
+  },
+  {
+    "word_start_position": 61,
+    "word": "like",
+    "input_csv_line_number": "1162",
+    "input_csv_related_word": "LIKE",
+    "similarity_score": "4.2927028e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "plain",
+    "input_csv_line_number": "3164",
+    "input_csv_related_word": "FIELD",
+    "similarity_score": "0.61735225"
+  },
+  {
+    "word_start_position": 76,
+    "word": "countryside",
+    "input_csv_line_number": "2731",
+    "input_csv_related_word": "AREAS",
+    "similarity_score": "0.57377356"
+  },
+  {
+    "word_start_position": 88,
+    "word": "surrounding",
+    "input_csv_line_number": "1246",
+    "input_csv_related_word": "COVER",
+    "similarity_score": "0.759686"
+  },
+  {
+    "word_start_position": 100,
+    "word": "it.",
+    "input_csv_line_number": "NULL"
+  }
+]

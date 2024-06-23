@@ -1,0 +1,92 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "union",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "new",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "jersey",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 19,
+    "word": "celebrated",
+    "input_csv_line_number": "2841",
+    "input_csv_related_word": "ARROGANT",
+    "similarity_score": "0.76515484"
+  },
+  {
+    "word_start_position": 30,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "union",
+    "input_csv_line_number": "583",
+    "input_csv_related_word": "UNITY",
+    "similarity_score": "0.39320382"
+  },
+  {
+    "word_start_position": 40,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "two",
+    "input_csv_line_number": "1448",
+    "input_csv_related_word": "TWO",
+    "similarity_score": "2.591027e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "local",
+    "input_csv_line_number": "1111",
+    "input_csv_related_word": "LOCAL",
+    "similarity_score": "3.223486e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "communities",
+    "input_csv_line_number": "4191",
+    "input_csv_related_word": "NEIGHBORHOOD",
+    "similarity_score": "0.39181173"
+  },
+  {
+    "word_start_position": 65,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 70,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "grand",
+    "input_csv_line_number": "3752",
+    "input_csv_related_word": "MASSIVE",
+    "similarity_score": "0.6130136"
+  },
+  {
+    "word_start_position": 78,
+    "word": "festival.",
+    "input_csv_line_number": "NULL"
+  }
+]

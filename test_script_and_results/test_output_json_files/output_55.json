@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "town",
+    "input_csv_line_number": "4191",
+    "input_csv_related_word": "NEIGHBORHOOD",
+    "similarity_score": "0.8308028"
+  },
+  {
+    "word_start_position": 9,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "grant",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 19,
+    "word": "michigan",
+    "input_csv_line_number": "321",
+    "input_csv_related_word": "MICHIGAN"
+  },
+  {
+    "word_start_position": 29,
+    "word": "received",
+    "input_csv_line_number": "1921",
+    "input_csv_related_word": "RECEIVED",
+    "similarity_score": "2.9100095e-13"
+  },
+  {
+    "word_start_position": 38,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "large",
+    "input_csv_line_number": "2182",
+    "input_csv_related_word": "LARGEST",
+    "similarity_score": "2.2604344e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "grant",
+    "input_csv_line_number": "337",
+    "input_csv_related_word": "GIVE",
+    "similarity_score": "0.6767396"
+  },
+  {
+    "word_start_position": 52,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "renovate",
+    "input_csv_line_number": "727",
+    "input_csv_related_word": "SUNNY",
+    "similarity_score": "0.6523664"
+  },
+  {
+    "word_start_position": 64,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 68,
+    "word": "historic",
+    "input_csv_line_number": "2031",
+    "input_csv_related_word": "HISTORY",
+    "similarity_score": "0.72999346"
+  },
+  {
+    "word_start_position": 77,
+    "word": "downtown",
+    "input_csv_line_number": "2550",
+    "input_csv_related_word": "DOWNTOWN",
+    "similarity_score": "1.7008584e-13"
+  },
+  {
+    "word_start_position": 86,
+    "word": "area.",
+    "input_csv_line_number": "NULL"
+  }
+]

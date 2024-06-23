@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "hope",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "arkansas",
+    "input_csv_line_number": "3467",
+    "input_csv_related_word": "ARKANSAS"
+  },
+  {
+    "word_start_position": 16,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 19,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "place",
+    "input_csv_line_number": "548",
+    "input_csv_related_word": "PLACE",
+    "similarity_score": "2.0994157e-13"
+  },
+  {
+    "word_start_position": 27,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "many",
+    "input_csv_line_number": "447",
+    "input_csv_related_word": "MANY",
+    "similarity_score": "3.1086605e-13"
+  },
+  {
+    "word_start_position": 38,
+    "word": "people",
+    "input_csv_line_number": "2808",
+    "input_csv_related_word": "PEOPLE",
+    "similarity_score": "3.3435117e-13"
+  },
+  {
+    "word_start_position": 45,
+    "word": "find",
+    "input_csv_line_number": "1371",
+    "input_csv_related_word": "FIND",
+    "similarity_score": "2.233011e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "hope",
+    "input_csv_line_number": "424",
+    "input_csv_related_word": "HOPE",
+    "similarity_score": "2.8990487e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 59,
+    "word": "inspiration",
+    "input_csv_line_number": "15",
+    "input_csv_related_word": "BREATHING",
+    "similarity_score": "0.64286184"
+  },
+  {
+    "word_start_position": 71,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 74,
+    "word": "their",
+    "input_csv_line_number": "475",
+    "input_csv_related_word": "THEIR",
+    "similarity_score": "3.091477e-13"
+  },
+  {
+    "word_start_position": 80,
+    "word": "lives.",
+    "input_csv_line_number": "NULL"
+  }
+]

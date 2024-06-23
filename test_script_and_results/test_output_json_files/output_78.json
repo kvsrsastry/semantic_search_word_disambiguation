@@ -1,0 +1,66 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "heather",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "walked",
+    "input_csv_line_number": "1254",
+    "input_csv_related_word": "RUN",
+    "similarity_score": "0.5971643"
+  },
+  {
+    "word_start_position": 15,
+    "word": "through",
+    "input_csv_line_number": "2794",
+    "input_csv_related_word": "THROUGH",
+    "similarity_score": "1.8500043e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "fields",
+    "input_csv_line_number": "907",
+    "input_csv_related_word": "COMPANY",
+    "similarity_score": "0.34582254"
+  },
+  {
+    "word_start_position": 30,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "blooming",
+    "input_csv_line_number": "4168",
+    "input_csv_related_word": "BLOSSOM",
+    "similarity_score": "0.7435368"
+  },
+  {
+    "word_start_position": 42,
+    "word": "heather,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 51,
+    "word": "enjoying",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.24288544"
+  },
+  {
+    "word_start_position": 60,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 64,
+    "word": "scent.",
+    "input_csv_line_number": "NULL"
+  }
+]

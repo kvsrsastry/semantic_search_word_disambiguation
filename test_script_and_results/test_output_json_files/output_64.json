@@ -1,0 +1,61 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "grace",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "danced",
+    "input_csv_line_number": "1201",
+    "input_csv_related_word": "FALL",
+    "similarity_score": "0.7114339"
+  },
+  {
+    "word_start_position": 13,
+    "word": "with",
+    "input_csv_line_number": "2603",
+    "input_csv_related_word": "WITH",
+    "similarity_score": "2.450941e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "such",
+    "input_csv_line_number": "689",
+    "input_csv_related_word": "A LOT",
+    "similarity_score": "0.63185585"
+  },
+  {
+    "word_start_position": 23,
+    "word": "grace",
+    "input_csv_line_number": "3616",
+    "input_csv_related_word": "SELFISH",
+    "similarity_score": "0.7549182"
+  },
+  {
+    "word_start_position": 29,
+    "word": "that",
+    "input_csv_line_number": "1849",
+    "input_csv_related_word": "THAT",
+    "similarity_score": "1.8107197e-13"
+  },
+  {
+    "word_start_position": 34,
+    "word": "everyone",
+    "input_csv_line_number": "1491",
+    "input_csv_related_word": "EVERYONE",
+    "similarity_score": "3.0887638e-13"
+  },
+  {
+    "word_start_position": 43,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 47,
+    "word": "captivated.",
+    "input_csv_line_number": "NULL"
+  }
+]

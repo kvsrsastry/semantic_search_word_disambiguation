@@ -1,0 +1,115 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 6,
+    "word": "setting",
+    "input_csv_line_number": "2249",
+    "input_csv_related_word": "GUESS",
+    "similarity_score": "0.2865695"
+  },
+  {
+    "word_start_position": 14,
+    "word": "up",
+    "input_csv_line_number": "1193",
+    "input_csv_related_word": "UP",
+    "similarity_score": "1.5833945e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "c",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "network,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "fisherman",
+    "input_csv_line_number": "4022",
+    "input_csv_related_word": "FISHING",
+    "similarity_score": "0.64701986"
+  },
+  {
+    "word_start_position": 50,
+    "word": "talked",
+    "input_csv_line_number": "991",
+    "input_csv_related_word": "APPRISE",
+    "similarity_score": "0.70327616"
+  },
+  {
+    "word_start_position": 57,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 63,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "time",
+    "input_csv_line_number": "3313",
+    "input_csv_related_word": "TIME",
+    "similarity_score": "2.5379953e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "caught",
+    "input_csv_line_number": "1982",
+    "input_csv_related_word": "KNOW",
+    "similarity_score": "0.38340664"
+  },
+  {
+    "word_start_position": 82,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "huge",
+    "input_csv_line_number": "2909",
+    "input_csv_related_word": "HUGE",
+    "similarity_score": "3.6700065e-13"
+  },
+  {
+    "word_start_position": 89,
+    "word": "cisco.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "carter",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "whose",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 14,
+    "word": "ancestors",
+    "input_csv_line_number": "1161",
+    "input_csv_related_word": "GRANDPA",
+    "similarity_score": "0.7792531"
+  },
+  {
+    "word_start_position": 24,
+    "word": "were",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 29,
+    "word": "carters,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 38,
+    "word": "enjoys",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 45,
+    "word": "exploring",
+    "input_csv_line_number": "186",
+    "input_csv_related_word": "CHECK",
+    "similarity_score": "0.81018585"
+  },
+  {
+    "word_start_position": 55,
+    "word": "old",
+    "input_csv_line_number": "1588",
+    "input_csv_related_word": "OLD",
+    "similarity_score": "2.2082322e-13"
+  },
+  {
+    "word_start_position": 59,
+    "word": "trade",
+    "input_csv_line_number": "2559",
+    "input_csv_related_word": "TRADE",
+    "similarity_score": "2.3607892e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "routes.",
+    "input_csv_line_number": "NULL"
+  }
+]

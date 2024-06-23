@@ -1,0 +1,101 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "architect",
+    "input_csv_line_number": "940",
+    "input_csv_related_word": "ARCHITECT",
+    "similarity_score": "2.2252622e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "admired",
+    "input_csv_line_number": "1360",
+    "input_csv_related_word": "IMPRESSED",
+    "similarity_score": "0.36057144"
+  },
+  {
+    "word_start_position": 22,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "traditional",
+    "input_csv_line_number": "296",
+    "input_csv_related_word": "ETHNICITY",
+    "similarity_score": "0.83172476"
+  },
+  {
+    "word_start_position": 38,
+    "word": "adobe",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 44,
+    "word": "building",
+    "input_csv_line_number": "1140",
+    "input_csv_related_word": "BUILDING",
+    "similarity_score": "2.017732e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 59,
+    "word": "designing",
+    "input_csv_line_number": "455",
+    "input_csv_related_word": "STRATEGY",
+    "similarity_score": "0.6483958"
+  },
+  {
+    "word_start_position": 69,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "new",
+    "input_csv_line_number": "289",
+    "input_csv_related_word": "NEW",
+    "similarity_score": "3.8175428e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "project",
+    "input_csv_line_number": "2930",
+    "input_csv_related_word": "TASKS",
+    "similarity_score": "0.4281699"
+  },
+  {
+    "word_start_position": 83,
+    "word": "on",
+    "input_csv_line_number": "3609",
+    "input_csv_related_word": "ON",
+    "similarity_score": "2.2797234e-13"
+  },
+  {
+    "word_start_position": 86,
+    "word": "adobe",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 92,
+    "word": "software.",
+    "input_csv_line_number": "NULL"
+  }
+]

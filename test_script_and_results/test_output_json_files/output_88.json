@@ -1,0 +1,89 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "rowan",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "admired",
+    "input_csv_line_number": "1360",
+    "input_csv_related_word": "IMPRESSED",
+    "similarity_score": "0.36057144"
+  },
+  {
+    "word_start_position": 14,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "bright",
+    "input_csv_line_number": "3702",
+    "input_csv_related_word": "BRIGHT",
+    "similarity_score": "2.9011879e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "red",
+    "input_csv_line_number": "564",
+    "input_csv_related_word": "RED",
+    "similarity_score": "2.4103413e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "berries",
+    "input_csv_line_number": "2256",
+    "input_csv_related_word": "BERRY",
+    "similarity_score": "0.7013296"
+  },
+  {
+    "word_start_position": 37,
+    "word": "on",
+    "input_csv_line_number": "3609",
+    "input_csv_related_word": "ON",
+    "similarity_score": "2.2797234e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 44,
+    "word": "rowan",
+    "input_csv_line_number": "2074",
+    "input_csv_related_word": "PUMPKIN",
+    "similarity_score": "0.8097702"
+  },
+  {
+    "word_start_position": 50,
+    "word": "tree",
+    "input_csv_line_number": "601",
+    "input_csv_related_word": "TREE",
+    "similarity_score": "3.1541807e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "yard.",
+    "input_csv_line_number": "NULL"
+  }
+]

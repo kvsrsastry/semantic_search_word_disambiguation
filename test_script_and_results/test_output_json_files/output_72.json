@@ -1,0 +1,50 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "asher",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "planted",
+    "input_csv_line_number": "2138",
+    "input_csv_related_word": "RISE",
+    "similarity_score": "0.7248877"
+  },
+  {
+    "word_start_position": 14,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 17,
+    "word": "asher",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "tree",
+    "input_csv_line_number": "601",
+    "input_csv_related_word": "TREE",
+    "similarity_score": "3.1541807e-13"
+  },
+  {
+    "word_start_position": 28,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 31,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 35,
+    "word": "backyard.",
+    "input_csv_line_number": "NULL"
+  }
+]

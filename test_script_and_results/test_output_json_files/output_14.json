@@ -1,0 +1,95 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "wearing",
+    "input_csv_line_number": "3458",
+    "input_csv_related_word": "ATTIRE",
+    "similarity_score": "0.36651832"
+  },
+  {
+    "word_start_position": 8,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "nike",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 17,
+    "word": "sneakers,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 31,
+    "word": "felt",
+    "input_csv_line_number": "3602",
+    "input_csv_related_word": "IMPRESS",
+    "similarity_score": "0.3070695"
+  },
+  {
+    "word_start_position": 36,
+    "word": "like",
+    "input_csv_line_number": "1162",
+    "input_csv_related_word": "LIKE",
+    "similarity_score": "4.2927028e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 45,
+    "word": "greek",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 51,
+    "word": "goddess",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "0.89621794"
+  },
+  {
+    "word_start_position": 59,
+    "word": "nike",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 64,
+    "word": "herself",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 72,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 79,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "marathon.",
+    "input_csv_line_number": "NULL"
+  }
+]

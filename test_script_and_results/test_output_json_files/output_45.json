@@ -1,0 +1,88 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "green",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "ohio",
+    "input_csv_line_number": "2083",
+    "input_csv_related_word": "OHIO"
+  },
+  {
+    "word_start_position": 13,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 16,
+    "word": "known",
+    "input_csv_line_number": "2034",
+    "input_csv_related_word": "KNOW",
+    "similarity_score": "0.522189"
+  },
+  {
+    "word_start_position": 22,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 26,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 30,
+    "word": "lush",
+    "input_csv_line_number": "677",
+    "input_csv_related_word": "ALCOHOLISM",
+    "similarity_score": "0.57486385"
+  },
+  {
+    "word_start_position": 35,
+    "word": "green",
+    "input_csv_line_number": "3019",
+    "input_csv_related_word": "GREEN",
+    "similarity_score": "1.9935125e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "parks",
+    "input_csv_line_number": "3706",
+    "input_csv_related_word": "PARK",
+    "similarity_score": "0.49905932"
+  },
+  {
+    "word_start_position": 47,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "environmentally",
+    "input_csv_line_number": "1339",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "0.8567662"
+  },
+  {
+    "word_start_position": 67,
+    "word": "friendly",
+    "input_csv_line_number": "2437",
+    "input_csv_related_word": "FRIENDLY",
+    "similarity_score": "3.2665003e-13"
+  },
+  {
+    "word_start_position": 76,
+    "word": "initiatives.",
+    "input_csv_line_number": "NULL"
+  }
+]

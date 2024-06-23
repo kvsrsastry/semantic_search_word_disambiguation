@@ -1,0 +1,111 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 7,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 11,
+    "word": "visit",
+    "input_csv_line_number": "1579",
+    "input_csv_related_word": "VISIT",
+    "similarity_score": "2.4291406e-13"
+  },
+  {
+    "word_start_position": 17,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 20,
+    "word": "rose",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "new",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 30,
+    "word": "york",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "admired",
+    "input_csv_line_number": "1360",
+    "input_csv_related_word": "IMPRESSED",
+    "similarity_score": "0.36057144"
+  },
+  {
+    "word_start_position": 48,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "beautiful",
+    "input_csv_line_number": "263",
+    "input_csv_related_word": "BEAUTIFUL",
+    "similarity_score": "2.3853226e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "rose",
+    "input_csv_line_number": "1201",
+    "input_csv_related_word": "FALL",
+    "similarity_score": "0.22677968"
+  },
+  {
+    "word_start_position": 65,
+    "word": "blooming",
+    "input_csv_line_number": "4168",
+    "input_csv_related_word": "BLOSSOM",
+    "similarity_score": "0.7435368"
+  },
+  {
+    "word_start_position": 74,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 77,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 81,
+    "word": "town's",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 88,
+    "word": "garden.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "driving",
+    "input_csv_line_number": "596",
+    "input_csv_related_word": "DRIVING",
+    "similarity_score": "2.1186491e-13"
+  },
+  {
+    "word_start_position": 8,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 12,
+    "word": "ki",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 16,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 23,
+    "word": "festival,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 33,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "learned",
+    "input_csv_line_number": "121",
+    "input_csv_related_word": "LEARN",
+    "similarity_score": "0.119265966"
+  },
+  {
+    "word_start_position": 45,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "mao",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 61,
+    "word": "meaning",
+    "input_csv_line_number": "338",
+    "input_csv_related_word": "SAY",
+    "similarity_score": "0.7653533"
+  },
+  {
+    "word_start_position": 69,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "kia,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 77,
+    "word": "which",
+    "input_csv_line_number": "1403",
+    "input_csv_related_word": "WHICH",
+    "similarity_score": "2.4212126e-13"
+  },
+  {
+    "word_start_position": 83,
+    "word": "stands",
+    "input_csv_line_number": "2804",
+    "input_csv_related_word": "STRONG",
+    "similarity_score": "0.4564374"
+  },
+  {
+    "word_start_position": 90,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 94,
+    "word": "sustenance.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "dale",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "indiana",
+    "input_csv_line_number": "2354",
+    "input_csv_related_word": "INDIANA"
+  },
+  {
+    "word_start_position": 15,
+    "word": "is",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 18,
+    "word": "nestled",
+    "input_csv_line_number": "139",
+    "input_csv_related_word": "LOWER",
+    "similarity_score": "0.7768496"
+  },
+  {
+    "word_start_position": 26,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 31,
+    "word": "dale",
+    "input_csv_line_number": "173",
+    "input_csv_related_word": "VALLEY",
+    "similarity_score": "0.8779565"
+  },
+  {
+    "word_start_position": 36,
+    "word": "surrounded",
+    "input_csv_line_number": "1246",
+    "input_csv_related_word": "COVER",
+    "similarity_score": "0.759686"
+  },
+  {
+    "word_start_position": 47,
+    "word": "by",
+    "input_csv_line_number": "1331",
+    "input_csv_related_word": "BY",
+    "similarity_score": "3.6753445e-13"
+  },
+  {
+    "word_start_position": 50,
+    "word": "gently",
+    "input_csv_line_number": "1950",
+    "input_csv_related_word": "SOFT",
+    "similarity_score": "0.3230434"
+  },
+  {
+    "word_start_position": 57,
+    "word": "rolling",
+    "input_csv_line_number": "2590",
+    "input_csv_related_word": "ROUND",
+    "similarity_score": "0.5917807"
+  },
+  {
+    "word_start_position": 65,
+    "word": "hills.",
+    "input_csv_line_number": "NULL"
+  }
+]

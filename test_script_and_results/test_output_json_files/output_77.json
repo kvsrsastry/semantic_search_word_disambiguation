@@ -1,0 +1,57 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "archer",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "an",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 11,
+    "word": "archer",
+    "input_csv_line_number": "438",
+    "input_csv_related_word": "ARCHERY",
+    "similarity_score": "0.7792398"
+  },
+  {
+    "word_start_position": 18,
+    "word": "by",
+    "input_csv_line_number": "1331",
+    "input_csv_related_word": "BY",
+    "similarity_score": "3.6753445e-13"
+  },
+  {
+    "word_start_position": 21,
+    "word": "profession,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 33,
+    "word": "practiced",
+    "input_csv_line_number": "2673",
+    "input_csv_related_word": "REPETITIVE",
+    "similarity_score": "0.61557174"
+  },
+  {
+    "word_start_position": 43,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "aim",
+    "input_csv_line_number": "2858",
+    "input_csv_related_word": "AIM",
+    "similarity_score": "2.3602873e-13"
+  },
+  {
+    "word_start_position": 51,
+    "word": "daily.",
+    "input_csv_line_number": "NULL"
+  }
+]

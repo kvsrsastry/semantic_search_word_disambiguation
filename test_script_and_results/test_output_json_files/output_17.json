@@ -1,0 +1,106 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "gardener",
+    "input_csv_line_number": "525",
+    "input_csv_related_word": "FARMER",
+    "similarity_score": "0.8432268"
+  },
+  {
+    "word_start_position": 13,
+    "word": "rode",
+    "input_csv_line_number": "847",
+    "input_csv_related_word": "SCALE",
+    "similarity_score": "0.43579537"
+  },
+  {
+    "word_start_position": 18,
+    "word": "his",
+    "input_csv_line_number": "573",
+    "input_csv_related_word": "HIS",
+    "similarity_score": "2.1259966e-13"
+  },
+  {
+    "word_start_position": 22,
+    "word": "harley",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 38,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 41,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 45,
+    "word": "farm,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 51,
+    "word": "where",
+    "input_csv_line_number": "154",
+    "input_csv_related_word": "WHERE",
+    "similarity_score": "2.5619727e-13"
+  },
+  {
+    "word_start_position": 57,
+    "word": "he",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "2.0495704e-13"
+  },
+  {
+    "word_start_position": 60,
+    "word": "used",
+    "input_csv_line_number": "2059",
+    "input_csv_related_word": "SERVE",
+    "similarity_score": "0.6953814"
+  },
+  {
+    "word_start_position": 65,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 67,
+    "word": "harley",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 74,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 77,
+    "word": "gather",
+    "input_csv_line_number": "1272",
+    "input_csv_related_word": "GATHER",
+    "similarity_score": "3.274263e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "hay.",
+    "input_csv_line_number": "NULL"
+  }
+]

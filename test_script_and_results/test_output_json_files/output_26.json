@@ -1,0 +1,113 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "renting",
+    "input_csv_line_number": "2048",
+    "input_csv_related_word": "SPEND",
+    "similarity_score": "0.75898707"
+  },
+  {
+    "word_start_position": 8,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 10,
+    "word": "car",
+    "input_csv_line_number": "2079",
+    "input_csv_related_word": "CAR",
+    "similarity_score": "2.1663789e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "her",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 26,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 30,
+    "word": "tuned",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "radio",
+    "input_csv_line_number": "1641",
+    "input_csv_related_word": "CONTACT",
+    "similarity_score": "0.62996054"
+  },
+  {
+    "word_start_position": 46,
+    "word": "to",
+    "input_csv_line_number": "1750",
+    "input_csv_related_word": "TO",
+    "similarity_score": "2.2328335e-13"
+  },
+  {
+    "word_start_position": 49,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "correct",
+    "input_csv_line_number": "3621",
+    "input_csv_related_word": "CORRECT",
+    "similarity_score": "2.980483e-13"
+  },
+  {
+    "word_start_position": 61,
+    "word": "hertz",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 67,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 71,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "favorite",
+    "input_csv_line_number": "3511",
+    "input_csv_related_word": "FAVORITE",
+    "similarity_score": "5.5781844e-13"
+  },
+  {
+    "word_start_position": 84,
+    "word": "station.",
+    "input_csv_line_number": "NULL"
+  }
+]

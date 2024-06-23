@@ -1,0 +1,106 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "ivy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 5,
+    "word": "who",
+    "input_csv_line_number": "1984",
+    "input_csv_related_word": "WHO",
+    "similarity_score": "3.0053992e-13"
+  },
+  {
+    "word_start_position": 9,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 13,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 19,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "plant,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "loved",
+    "input_csv_line_number": "431",
+    "input_csv_related_word": "ENJOY",
+    "similarity_score": "0.4555211"
+  },
+  {
+    "word_start_position": 42,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 46,
+    "word": "way",
+    "input_csv_line_number": "648",
+    "input_csv_related_word": "TRAVEL TO",
+    "similarity_score": "0.4805225"
+  },
+  {
+    "word_start_position": 50,
+    "word": "ivy",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 54,
+    "word": "climbed",
+    "input_csv_line_number": "2592",
+    "input_csv_related_word": "LEAN",
+    "similarity_score": "0.5234555"
+  },
+  {
+    "word_start_position": 62,
+    "word": "up",
+    "input_csv_line_number": "1193",
+    "input_csv_related_word": "UP",
+    "similarity_score": "1.5833945e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 69,
+    "word": "old",
+    "input_csv_line_number": "1588",
+    "input_csv_related_word": "OLD",
+    "similarity_score": "2.2082322e-13"
+  },
+  {
+    "word_start_position": 73,
+    "word": "walls.",
+    "input_csv_line_number": "NULL"
+  }
+]

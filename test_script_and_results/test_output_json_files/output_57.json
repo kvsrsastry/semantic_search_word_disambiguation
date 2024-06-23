@@ -1,0 +1,102 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "king",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 6,
+    "word": "north",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 12,
+    "word": "carolina",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 22,
+    "word": "was",
+    "input_csv_line_number": "1509",
+    "input_csv_related_word": "HAPPEN",
+    "similarity_score": "0.212777"
+  },
+  {
+    "word_start_position": 26,
+    "word": "named",
+    "input_csv_line_number": "514",
+    "input_csv_related_word": "HE",
+    "similarity_score": "0.75661874"
+  },
+  {
+    "word_start_position": 32,
+    "word": "after",
+    "input_csv_line_number": "1844",
+    "input_csv_related_word": "AFTER",
+    "similarity_score": "3.1510105e-13"
+  },
+  {
+    "word_start_position": 38,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "former",
+    "input_csv_line_number": "2836",
+    "input_csv_related_word": "ANCIENT",
+    "similarity_score": "0.3749781"
+  },
+  {
+    "word_start_position": 47,
+    "word": "ruler,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 54,
+    "word": "and",
+    "input_csv_line_number": "341",
+    "input_csv_related_word": "AND",
+    "similarity_score": "2.0988864e-13"
+  },
+  {
+    "word_start_position": 58,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 62,
+    "word": "town",
+    "input_csv_line_number": "4191",
+    "input_csv_related_word": "NEIGHBORHOOD",
+    "similarity_score": "0.8308028"
+  },
+  {
+    "word_start_position": 67,
+    "word": "celebrates",
+    "input_csv_line_number": "2841",
+    "input_csv_related_word": "ARROGANT",
+    "similarity_score": "0.76515484"
+  },
+  {
+    "word_start_position": 78,
+    "word": "its",
+    "input_csv_line_number": "295",
+    "input_csv_related_word": "INFORMATION TECHNOLOGY",
+    "similarity_score": "0.43520036"
+  },
+  {
+    "word_start_position": 82,
+    "word": "royal",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 88,
+    "word": "heritage.",
+    "input_csv_line_number": "NULL"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "b",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 7,
+    "word": "whose",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 13,
+    "word": "name",
+    "input_csv_line_number": "1168",
+    "input_csv_related_word": "NAME",
+    "similarity_score": "2.0117814e-13"
+  },
+  {
+    "word_start_position": 18,
+    "word": "comes",
+    "input_csv_line_number": "556",
+    "input_csv_related_word": "SUM",
+    "similarity_score": "0.46746513"
+  },
+  {
+    "word_start_position": 24,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 33,
+    "word": "thorny",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 40,
+    "word": "plant,",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 47,
+    "word": "often",
+    "input_csv_line_number": "2710",
+    "input_csv_related_word": "OFTEN",
+    "similarity_score": "5.408126e-13"
+  },
+  {
+    "word_start_position": 53,
+    "word": "explored",
+    "input_csv_line_number": "186",
+    "input_csv_related_word": "CHECK",
+    "similarity_score": "0.81018585"
+  },
+  {
+    "word_start_position": 62,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 66,
+    "word": "countryside.",
+    "input_csv_line_number": "NULL"
+  }
+]

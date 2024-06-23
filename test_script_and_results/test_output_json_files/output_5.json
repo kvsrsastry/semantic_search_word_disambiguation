@@ -1,0 +1,74 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 4,
+    "word": "ordered",
+    "input_csv_line_number": "2621",
+    "input_csv_related_word": "WILL",
+    "similarity_score": "0.44043642"
+  },
+  {
+    "word_start_position": 12,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 14,
+    "word": "book",
+    "input_csv_line_number": "3258",
+    "input_csv_related_word": "BOOKS",
+    "similarity_score": "1.5586539e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 25,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 29,
+    "word": "amazon",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 36,
+    "word": "rainforest",
+    "input_csv_line_number": "1216",
+    "input_csv_related_word": "RAINFOREST",
+    "similarity_score": "2.8141291e-13"
+  },
+  {
+    "word_start_position": 47,
+    "word": "from",
+    "input_csv_line_number": "202",
+    "input_csv_related_word": "FROM",
+    "similarity_score": "2.748209e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "amazon",
+    "input_csv_line_number": "12",
+    "input_csv_related_word": "AMAZON"
+  },
+  {
+    "word_start_position": 59,
+    "word": "store.",
+    "input_csv_line_number": "NULL"
+  }
+]

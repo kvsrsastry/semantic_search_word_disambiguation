@@ -1,0 +1,118 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "mercury",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 8,
+    "word": "marine",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 15,
+    "word": "engines",
+    "input_csv_line_number": "576",
+    "input_csv_related_word": "TRAIN",
+    "similarity_score": "0.63806725"
+  },
+  {
+    "word_start_position": 23,
+    "word": "powered",
+    "input_csv_line_number": "309",
+    "input_csv_related_word": "POWER",
+    "similarity_score": "0.87974334"
+  },
+  {
+    "word_start_position": 31,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 35,
+    "word": "boat",
+    "input_csv_line_number": "2454",
+    "input_csv_related_word": "BOAT",
+    "similarity_score": "2.2137222e-13"
+  },
+  {
+    "word_start_position": 40,
+    "word": "as",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "0.38972145"
+  },
+  {
+    "word_start_position": 43,
+    "word": "they",
+    "input_csv_line_number": "2180",
+    "input_csv_related_word": "THEY",
+    "similarity_score": "2.1579886e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "sailed",
+    "input_csv_line_number": "1810",
+    "input_csv_related_word": "NAVIGATE",
+    "similarity_score": "0.6489322"
+  },
+  {
+    "word_start_position": 55,
+    "word": "under",
+    "input_csv_line_number": "37",
+    "input_csv_related_word": "UNDER",
+    "similarity_score": "2.1739774e-13"
+  },
+  {
+    "word_start_position": 61,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 65,
+    "word": "planet",
+    "input_csv_line_number": "496",
+    "input_csv_related_word": "PLANET",
+    "similarity_score": "2.32536e-13"
+  },
+  {
+    "word_start_position": 72,
+    "word": "mercury",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 80,
+    "word": "shining",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 88,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 91,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 95,
+    "word": "night",
+    "input_csv_line_number": "2209",
+    "input_csv_related_word": "NIGHT",
+    "similarity_score": "2.0347324e-13"
+  },
+  {
+    "word_start_position": 101,
+    "word": "sky.",
+    "input_csv_line_number": "NULL"
+  }
+]

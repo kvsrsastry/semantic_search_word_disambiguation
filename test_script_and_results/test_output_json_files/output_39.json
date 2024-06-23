@@ -1,0 +1,93 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "while",
+    "input_csv_line_number": "3967",
+    "input_csv_related_word": "WHILE",
+    "similarity_score": "2.6304783e-13"
+  },
+  {
+    "word_start_position": 6,
+    "word": "exploring",
+    "input_csv_line_number": "186",
+    "input_csv_related_word": "CHECK",
+    "similarity_score": "0.81018585"
+  },
+  {
+    "word_start_position": 16,
+    "word": "dover",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 23,
+    "word": "delaware",
+    "input_csv_line_number": "223",
+    "input_csv_related_word": "DELAWARE"
+  },
+  {
+    "word_start_position": 33,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 37,
+    "word": "read",
+    "input_csv_line_number": "1624",
+    "input_csv_related_word": "READ",
+    "similarity_score": "1.9998467e-13"
+  },
+  {
+    "word_start_position": 42,
+    "word": "about",
+    "input_csv_line_number": "1075",
+    "input_csv_related_word": "ABOUT",
+    "similarity_score": "4.3335577e-13"
+  },
+  {
+    "word_start_position": 48,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 52,
+    "word": "historical",
+    "input_csv_line_number": "2031",
+    "input_csv_related_word": "HISTORY",
+    "similarity_score": "0.72999346"
+  },
+  {
+    "word_start_position": 63,
+    "word": "practice",
+    "input_csv_line_number": "1275",
+    "input_csv_related_word": "PROFESSIONAL",
+    "similarity_score": "0.5990471"
+  },
+  {
+    "word_start_position": 72,
+    "word": "of",
+    "input_csv_line_number": "1197",
+    "input_csv_related_word": "OF",
+    "similarity_score": "2.703043e-13"
+  },
+  {
+    "word_start_position": 75,
+    "word": "dovering",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 84,
+    "word": "for",
+    "input_csv_line_number": "613",
+    "input_csv_related_word": "FOR",
+    "similarity_score": "2.834626e-13"
+  },
+  {
+    "word_start_position": 88,
+    "word": "artifacts.",
+    "input_csv_line_number": "NULL"
+  }
+]

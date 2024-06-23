@@ -1,0 +1,93 @@
+[
+  {
+    "word_start_position": 0,
+    "word": "during",
+    "input_csv_line_number": "2352",
+    "input_csv_related_word": "DURING",
+    "similarity_score": "5.389649e-13"
+  },
+  {
+    "word_start_position": 7,
+    "word": "her",
+    "input_csv_line_number": "1634",
+    "input_csv_related_word": "HER",
+    "similarity_score": "1.9636788e-13"
+  },
+  {
+    "word_start_position": 11,
+    "word": "stay",
+    "input_csv_line_number": "6",
+    "input_csv_related_word": "STAY",
+    "similarity_score": "2.905935e-13"
+  },
+  {
+    "word_start_position": 16,
+    "word": "in",
+    "input_csv_line_number": "1073",
+    "input_csv_related_word": "IN",
+    "similarity_score": "1.9960539e-13"
+  },
+  {
+    "word_start_position": 19,
+    "word": "geneva",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 27,
+    "word": "switzerland",
+    "input_csv_line_number": "2170",
+    "input_csv_related_word": "SWITZERLAND"
+  },
+  {
+    "word_start_position": 40,
+    "word": "she",
+    "input_csv_line_number": "1136",
+    "input_csv_related_word": "SHE",
+    "similarity_score": "1.3746125e-13"
+  },
+  {
+    "word_start_position": 44,
+    "word": "attended",
+    "input_csv_line_number": "42",
+    "input_csv_related_word": "LEAD",
+    "similarity_score": "0.6243263"
+  },
+  {
+    "word_start_position": 53,
+    "word": "a",
+    "input_csv_line_number": "3030",
+    "input_csv_related_word": "A",
+    "similarity_score": "2.3482892e-13"
+  },
+  {
+    "word_start_position": 55,
+    "word": "conference",
+    "input_csv_line_number": "3593",
+    "input_csv_related_word": "SPORTS",
+    "similarity_score": "0.8195905"
+  },
+  {
+    "word_start_position": 66,
+    "word": "discussing",
+    "input_csv_line_number": "1497",
+    "input_csv_related_word": "GOSSIP",
+    "similarity_score": "0.49287146"
+  },
+  {
+    "word_start_position": 77,
+    "word": "the",
+    "input_csv_line_number": "2168",
+    "input_csv_related_word": "THE",
+    "similarity_score": "2.7711552e-13"
+  },
+  {
+    "word_start_position": 81,
+    "word": "geneva",
+    "input_csv_line_number": "NULL"
+  },
+  {
+    "word_start_position": 88,
+    "word": "convention",
+    "input_csv_line_number": "NULL"
+  }
+]
