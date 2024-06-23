@@ -18,6 +18,7 @@ if __name__ == "__main__":
  args.add_argument('--create-ner-tags', '-n', type=str)
  args.add_argument('--current-ner-tags-path', '-t', type=str)
  args.add_argument('--input-sentence', '-s', type=str)
+ args.add_argument('--output-json-file', '-o', type=str, required=True)
  arg = vars(args.parse_args())
 
  # One of the '--create-vector-db' and '--current-vector-db-path' arguments is mandatory
@@ -48,7 +49,7 @@ if __name__ == "__main__":
 
  # Instantiate the Class
  sswd_obj = sswd(dictionary_path, vector_database_path, ner_dictionary_path, arg['create_vector_db'] is not None, arg['create_ner_tags'] is not None)
- print(vars(sswd_obj))
+ #print(vars(sswd_obj))
 
  # Create vector database, if requested
  if arg['create_vector_db'] is not None:
@@ -65,5 +66,6 @@ if __name__ == "__main__":
 
  if arg['input_sentence'] is not None:
   output_dict = sswd_obj.parse_and_disambiguate_words(arg['input_sentence'])
-  print(json.dumps(output_dict, indent=2))
+  with open(arg['output_json_file'], "w") as fw:
+    fw.write(json.dumps(output_dict, indent=2))
 

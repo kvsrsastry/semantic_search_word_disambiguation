@@ -35,12 +35,12 @@ BAND-AID,piece of sticking plaster,,band-aid,NN
 OPPORTUNITY,time or set of circumstances that makes it possible to do something,,opportunity,NN
 DEFINITION,statement of word's meaning,,definition,NN
 UNDER,extending or directly below,,under,IN
-BURRO,a small donkey used as a pack animal,I-PER,burro,NN
+BURRO,a small donkey used as a pack animal,,burro,NN
 CHINA,country in East Asia,I-LOC,china,NN
 FOOTBALL,team game in which ball is kicked,,football,NN
 PROTECT,keep safe from harm or injury,,protect,NN
 LEAD,be in charge of,,lead,NN
-BLAMELESS,innocent of wrongdoing,I-PER,blameless,NN
+BLAMELESS,innocent of wrongdoing,,blameless,NN
 UNIFORM,denoting garment forming part of person's uniform,,uniform,NN
 VERY,actual,,very,RB
 LUGGAGE,suitcases or other bags in which to pack personal belongings for travelling,,luggage,NN
@@ -51,11 +51,11 @@ BURGER,"a dish consisting of a flat round cake of minced beef, or another savour
 INVEST,put money into something in hope of making profit,,invest,NN
 MASSACHUSETTS,"state in north-eastern US, on Atlantic coast",I-LOC,massachusetts,NN
 WIPE,"a disposable cloth treated with a cleansing agent, for wiping things clean",,wipe,NN
-AILING,in poor health,I-PER,ailing,VBG
+AILING,in poor health,,ailing,VBG
 HEAT,high temperature,,heat,NN
 SLEEP,condition of body and mind in which consciousness of surroundings is practically suspended,,sleep,NN
 CD,a compact disc,,cd,NN
-BLAINE SUNDRUD,Blaine Sundrud from AWS,,blaine sundrud,NN
+BLAINE SUNDRUD,Blaine Sundrud from AWS,I-PER,blaine sundrud,NN
 SAFE,uninjured,,safe,JJ
 COST,estimate price of,,cost,NN
 ATTRACTION,action or power of attracting,,attraction,NN
@@ -77,7 +77,7 @@ GAMES,activity done for amusement,,game,NNS
 COAT,outdoor garment,,coat,NN
 EXPLANATIONS,statement or account that makes something clear,,explanation,NNS
 GALLAUDET UNIVERSITY,"Gallaudet University is a private federally chartered university in Washington, D.C., for the education of the deaf and hard of hearing.",I-ORG,gallaudet university,NN
-CACOON,a silky case spun by the larvae of many insects for protection as pupae,I-MISC,cacoon,NN
+CACOON,a silky case spun by the larvae of many insects for protection as pupae,I-LOC,cacoon,NN
 CREATIVITY,use of imagination or original ideas,,creativity,NN
 TOUCH FACE,come into or be in contact with face,,touch face,NN
 FINE,satisfactorily or well,,fine,NN
@@ -94,7 +94,7 @@ ADOPTION PAPERS,documentation relating to the adoption of a particular child,,ad
 BIRTH CERTIFICATE,official document issued to record person's birth,,birth certificate,NN
 ELEPHANT,"very large plant-eating mammal with prehensile trunk, long curved ivory tusks",,elephant,NN
 TENNIS,game in which two or four players strike ball with rackets over net stretched across court,,tennis,NN
-BOORISH,rough and bad-mannered,I-PER,boorish,NN
+BOORISH,rough and bad-mannered,I-LOC,boorish,NN
 DOWNTOWN,downtown area of town or city,,downtown,NN
 TIME,indefinite continued progress of existence,,time,NN
 AMPUTATE,cut off limb by surgical operation,,amputate,NN
@@ -109,14 +109,14 @@ FULL,having no empty space,,full,JJ
 MAN,adult human male,,man,NN
 BUDGE,make or cause to make the slightest movement,,budge,NN
 NOT,used to form negative with auxiliary verbs,,not,RB
-FAR,situated at great distance,I-LOC,far,RB
+FAR,situated at great distance,,far,RB
 EDUCATION,process of educating or being educated,,education,NN
 ADDENDUM,item of additional material added at end of book,,addendum,NN
 ALL OF YOU,"“All of you” is synonymous with “you all,” but we mostly use it when we're talking in other dialects besides certain US English ones.",,all of you,NN
 BEQUEST,"the money or property belonging to someone that they say that, after their death, they wish to be given to other people such as a will",,bequest,NN
 SMOKE,inhale and exhale smoke of tobacco,,smoke,NN
 3 HAND,a number that is one more than 2,,3 hand,CD
-BIBILE,Christian scriptures,I-PER,bibile,NN
+BIBILE,Christian scriptures,I-LOC,bibile,NN
 IF,condition or supposition,,if,IN
 LEARN,gain knowledge of or skill in something,,learn,NN
 ACTIVITY, a thing that you do for interest or pleasure,,activity,NN
@@ -173,7 +173,7 @@ LOVE,like or enjoy very much,,love,NN
 VALLEY,low area of land between hills or mountains,,valley,NN
 WIND,perceptible natural movement of air,,wind,NN
 BURGLARY,"illegal entry of a building with intent to commit a crime, especially theft",,burglary,NN
-INSTAGRAM,post photograph on Instagram,I-ORG,instagram,NN
+INSTAGRAM,post photograph on Instagram,I-MISC,instagram,NN
 DOWNLOAD,copy data from one computer system to another,,download,NN
 REAR,back part of something,,rear,NN
 ABRUPT,sudden,,abrupt,NN
@@ -201,7 +201,7 @@ ANNOYING,causing irritation or annoyance,,annoying,VBG
 ALL OF US,the statement or sentiment being expressed applies to everyone in the group or conversation,,all of us,NN
 FROM,indicating point where thing starts,,from,IN
 SINCE,in intervening period between time mentioned and time under consideration,,since,IN
-CHASE,try to catch,I-PER,chase,NN
+CHASE,try to catch,,chase,NN
 bitter,not sweet,,bitter,NN
 CAUCASIAN,white-skinned,I-MISC,caucasian,NN
 COW,domesticated female bovine animal,,cow,NN
@@ -254,11 +254,11 @@ THIN PATH,thin way or track for walking,,thin path,NN
 SOMETIME,at some unspecified or unknown time,,sometime,RB
 BATTERY,container used as source of power,,battery,NN
 SUPERIOR,higher in rank or quality,,superior,JJ
-BILLFOLD,wallet,I-PER,billfold,NN
+BILLFOLD,wallet,,billfold,NN
 SETS,"put, lay, or stand multiple things in a specified place or position",,set,NNS
 IMPRESSIVE,evoking admiration through size or skill,,impressive,JJ
 CAFFEINATED,"(of coffee or tea) containing natural amount of caffeine, or with caffeine added",,caffeinated,VBN
-SMARTWATCH,mobile device designed to be worn on wrist,I-MISC,smartwatch,NN
+SMARTWATCH,mobile device designed to be worn on wrist,,smartwatch,NN
 ONE,lowest cardinal number,,one,CD
 BEAUTIFUL,pleasing senses or mind aesthetically,,beautiful,NN
 BEST FRIEND,a person's closest friend,,best friend,NN
@@ -316,7 +316,7 @@ SPREAD,"extent, width, or area covered by something",,spread,NN
 BUDDHIST,an adherent of the religion based on the teachings of Buddha,I-MISC,buddhist,NN
 WIPE,"clean or dry something by rubbing with cloth, piece of paper, or one's hand",,wipe,NN
 ANNOUNCEMENT,formal public statement,,announcement,NN
-ZEBRA,African wild horse with black-and-white stripes,I-MISC,zebra,NN
+ZEBRA,African wild horse with black-and-white stripes,I-PER,zebra,NN
 OVERHEAD BIN,a place for storing bags and luggage above head,,overhead bin,NN
 MICHIGAN,"state in northern US, bordered on west, north, and east by Lakes Michigan",I-LOC,michigan,NNS
 12,equivalent to product of three and four,,12,CD
@@ -384,7 +384,7 @@ COMEDIAN,entertainer on stage or television whose act is designed to make audien
 FISH,animal with gills and fins living in water,,fish,NN
 DONUT,small fried cake of sweetened dough,,donut,NN
 A BIT,somewhat,,a bit,NN
-NEW YORK,state in north-eastern US,I-LOC,new york,NN
+NEW YORK,state in north-eastern US,,new york,NN
 HEALTH,state of being free from illness or injury,,health,NN
 biology,study of living organisms,,biology,NN
 LESS,smaller amount,,le,RBR
@@ -406,7 +406,7 @@ GENEROUS,larger or more plentiful than is usual or necessary,,generous,JJ
 ACCOUNTING,process or work of keeping financial accounts,,accounting,NN
 ADOPTED,legally take (another's child) and bring it up as one's own,,adopted,VBN
 DISTRACT,prevent from concentrating on something,,distract,NN
-BINDER,bookbinder,I-PER,binder,NN
+BINDER,bookbinder,,binder,NN
 MASK,protective covering,,mask,NN
 GOLF,play golf,,golf,NN
 SECURITY,state of being free from danger or threat,,security,NN
@@ -601,7 +601,7 @@ SKY,region of atmosphere and outer space seen from earth,,sky,NN
 TREE,woody perennial plant having trunk growing to considerable height,,tree,NN
 ARCHITECT,design and configure,,architect,NN
 THROUGH,moving in one side and out of other side of,,through,IN
-BUMO,a protuberance on a level surface,,bumo,NN
+BUMO,a protuberance on a level surface,I-MISC,bumo,NN
 NOT ENOUGH,lacking in what is necessary or required,,not enough,IN
 ASSAULT,attack,,assault,NN
 ANATOMY,study of the body,,anatomy,NN
@@ -679,7 +679,7 @@ BLISS,perfect happiness,,bliss,NN
 BED,piece of furniture for sleep or rest,,bed,NN
 BORED,feeling weary and impatient,,bored,VBN
 SAILBOAT,a boat propelled by sails; a sailing boat,,sailboat,NN
-BRITTLE,hard but easily broken,I-PER,brittle,NN
+BRITTLE,hard but easily broken,,brittle,NN
 PANCAKE,"thin, flat cake of batter",,pancake,NN
 TOP,"highest or uppermost point, part",,top,NN
 MICROWAVE,"electromagnetic wave with wavelength in range 0.001-0.3 m, shorter than that of normal radio wave but longer than those of infrared radiation",,microwave,NN
@@ -760,7 +760,7 @@ THREE HUNDRED,being one hundred more than two hundred,,three hundred,VBN
 SEE,perceive with eyes,,see,VB
 WHAT,asking for information specifying something,,what,WP
 KNOWLEDGE,information and skills acquired through experience and education,,knowledge,NN
-GULLIBLE,easily persuaded to believe something,I-PER,gullible,JJ
+GULLIBLE,easily persuaded to believe something,,gullible,JJ
 SCREEN,panel or area on electronic device on which images and data are displayed,,screen,NN
 BELONG,be property of,,belong,NN
 UKRAINE,country in eastern Europe,I-LOC,ukraine,NN
@@ -768,7 +768,7 @@ WHERE,in or to what place or position,,where,WRB
 END,final part,,end,NN
 CONCEPT,abstract idea,,concept,NN
 IMPACT,action of one object striking another,,impact,NN
-SHY,nervous or timid in company of other people,I-PER,shy,NN
+SHY,nervous or timid in company of other people,,shy,NN
 HALF SISTER,sister with whom one has only one parent in common,,half sister,NN
 WITHIN,inside,,within,IN
 BOTANICAL,substance obtained from plant,,botanical,JJ
@@ -893,7 +893,7 @@ ROOMMATE,a person who shares a dwelling with one or more people,,roommate,NN
 CAREFULLY,in way that deliberately avoids harm or errors,,carefully,RB
 SPOILED,(of food) unfit for eating,,spoiled,VBN
 LIST 2/4,Second option in a four option list in ASL,,list 2/4,NN
-SQUIRREL,agile tree-dwelling rodent with bushy tail,I-MISC,squirrel,NN
+SQUIRREL,agile tree-dwelling rodent with bushy tail,,squirrel,NN
 BACK,towards rear,,back,RB
 TRAINING,action of teaching person or animal particular skill or type of behaviour,,training,NN
 APPARENT,clearly visible or understood,,apparent,NN
@@ -908,7 +908,7 @@ COMPANY,commercial business,,company,NN
 BACK,rear surface of human body,,back,RB
 VERTICAL STRIPES,"lines parallel to the sides of a page, or clothing item.",,vertical stripes,NNS
 VIETNAM,country in SE Asia,I-LOC,vietnam,NNS
-BRILLIANT,very clever or talented,I-PER,brilliant,NN
+BRILLIANT,very clever or talented,,brilliant,NN
 READ,look at and comprehend meaning of written or printed matter,,read,NN
 PASSWORD,secret word or phrase that must be used to gain admission to place,,password,NN
 SNEEZE,make sudden involuntary expulsion of air from nose and mouth due to irritation of one's nostrils,,sneeze,NN
@@ -1054,17 +1054,17 @@ SNEEZE,act or sound of expelling air from nose in such way,,sneeze,NN
 WANT,have desire to possess or do,,want,NN
 INDUSTRY,economic activity involving processing of raw materials and manufacture of goods,,industry,NN
 JANUARY,"first month of year, in northern hemisphere",,january,NN
-BATH,large container for washing,I-LOC,bath,NN
+BATH,large container for washing,,bath,NN
 GOING,act of leaving,,going,VBG
 SEPARATE,cause to move or be apart,,separate,JJ
 SCORE,"number of points, goals, runs, etc. achieved in game or by team",,score,NN
-TROLLS,person who makes deliberately provocative post,I-PER,troll,NNS
+TROLLS,person who makes deliberately provocative post,,troll,NNS
 CARAMEL,"sugar or syrup heated until it turns brown, used as flavouring or colouring",,caramel,NN
-ASL DICTIONARY,Dictionary of American Sign Langauge,I-ORG,asl dictionary,JJ
+ASL DICTIONARY,Dictionary of American Sign Langauge,I-MISC,asl dictionary,JJ
 DROVE,past of drive,,drove,NN
 ALARM,fit with alarm,,alarm,NN
 BEAN BAG,large cushion filled with polystyrene beads,,bean bag,NN
-BROWN,the color or shade of brown,I-MISC,brown,NN
+BROWN,the color or shade of brown,,brown,NN
 IRAN,"country in Middle East, between Caspian Sea and Persian Gulf",I-LOC,iran,NN
 CHECK,"an examination to test or ascertain accuracy, quality, or satisfactory condition",,check,NN
 AMAZON, the world's largest online retailer and a prominent cloud service provider,I-ORG,amazon,NN
@@ -1111,7 +1111,7 @@ MASK BAG,airplane emergency procedure step,,mask bag,NN
 LOCAL,relating or restricted to area,,local,JJ
 MUST,be obliged to,,must,MD
 ADDITIONAL,"added, extra, or supplementary to what is already present or available",,additional,JJ
-BRITCHES,trousers,I-ORG,britches,NNS
+BRITCHES,trousers,,britches,NNS
 WEST,"the direction towards the point of the horizon where the sun sets at the equinoxes, on the left-hand side of a person facing north, or the part of the horizon lying in this direction",,west,NN
 ARRANGE,put in order,,arrange,NN
 BEFORE,during period of time preceding particular event,,before,IN
@@ -1119,7 +1119,7 @@ JULY,"seventh month of year, in northern hemisphere",,july,NN
 ATTRACTIONS,something that people come to see because they are interested in it,,attraction,NNS
 BROUGHT,take or go with (someone or something) to a place,,brought,NN
 HARDWARE,"machines, wiring, and other physical components of computer",,hardware,NN
-ORANGE,large citrus fruit,I-MISC,orange,NN
+ORANGE,large citrus fruit,,orange,NN
 HAPPEN,take place,,happen,VB
 DOWNLOAD,act or process of downloading data,,download,NN
 FINISH,complete task or activity,,finish,NN
@@ -1141,7 +1141,7 @@ BUILDING,structure with roof and walls,,building,NN
 CALCULUS,"the branch of mathematics that deals with the finding and properties of derivatives and integrals of functions, by methods originally based on the summation of infinitesimal differences. The two main types are differential calculus and integral calculus",,calculus,NN
 BUYER,a person who makes a purchase,,buyer,NN
 EXAM,short for examination (sense 2).,,exam,NN
-ASHEN,very pale with shock or illness,I-PER,ashen,NN
+ASHEN,very pale with shock or illness,,ashen,NN
 EQUAL,the same,,equal,JJ
 DIVORCE,legally dissolve marriage with,,divorce,NN
 AGREE,have same opinion,,agree,NN
@@ -1149,7 +1149,7 @@ MANY,large number of,,many,JJ
 NORWAY,mountainous European country on northern and western coastline of Scandinavia,I-LOC,norway,RB
 BASIC,fundamental,,basic,JJ
 MOBILE DEVICES,"relating to mobile phones, handheld computers, and similar technology",,mobile devices,NNS
-DESERT,"waterless, desolate area",I-LOC,desert,NN
+DESERT,"waterless, desolate area",,desert,NN
 BUY,obtain in exchange for payment,,buy,VB
 COFFEE,hot drink,,coffee,NN
 BEAR,large animal,,bear,NN
@@ -1210,7 +1210,7 @@ CAN'T,cannot or unable,,can't,NN
 BODY ACHE,"Body ache is a complaint that is often used to denote vague symptoms of mild fatigue, lethargy, or dull aches.",,body ache,NN
 HEAT,high temperature,,heat,NN
 CROWD,large gathering of people,,crowd,NN
-SMART,having or showing quick-witted intelligence,I-PER,smart,NN
+SMART,having or showing quick-witted intelligence,,smart,NN
 ADVERSARY,one's opponent in contest or dispute,,adversary,NN
 BAPTISMAL,relating to the Christian rite of baptism,,baptismal,NN
 RAINFOREST,"luxuriant, dense forest rich in biodiversity",,rainforest,NN
@@ -1254,7 +1254,7 @@ POINT TOP RIGHT,direct someone's attention towards something by extending one's 
 COLUMBIA,a republic in northwestern South America,I-LOC,columbia,NN
 RUN,move at speed faster than walk,,run,VB
 APPARENTLY,as far as one knows or can see,,apparently,RB
-MAD,very angry,I-PER,mad,NN
+MAD,very angry,,mad,NN
 CALL ME,requesting that someone call you by telephone.,,call me,NN
 WOLF,wild carnivorous mammal which is largest member of dog family,,wolf,NN
 TUESDAY,day of week before Wednesday and following Monday,,tuesday,NN
@@ -1276,7 +1276,7 @@ ACQUAINTANCE,knowledge or experience of something,,acquaintance,NN
 PROFESSIONAL,relating to profession,,professional,JJ
 OPTOMETRIST,person who practises optometry,,optometrist,NN
 AWAY,"to or at a distance from a particular place, person, or thing",,away,RB
-SHOCKED,surprised and upset,I-PER,shocked,VBN
+SHOCKED,surprised and upset,,shocked,VBN
 ABILITY,possession of means or skill to do something,,ability,NN
 PARKING LOT,an area where people can leave their cars,,parking lot,NN
 MAINE,"NE state of US, on Atlantic coast",I-LOC,maine,NN
@@ -1292,7 +1292,7 @@ ROLLER COASTER,fairground attraction consisting of light railway track,,roller c
 HIT,cause harm or distress to,,hit,NN
 BLONDE,fair or pale yellow,,blonde,NN
 THEIR,associated with people or things previously mentioned,,their,PRP$
-HOSPITAL,institution providing medical and surgical treatment and nursing care,I-LOC,hospital,NN
+HOSPITAL,institution providing medical and surgical treatment and nursing care,,hospital,NN
 GROW,increase,,grow,NN
 AS OPPOSED TO,used to compare two things and show that they are different from each other,,as opposed to,NN
 JOURNALIST,person who writes for newspapers or prepares news to be broadcast,,journalist,NN
@@ -1312,7 +1312,7 @@ ANDROID,operating system for smartphones and tablet computers,I-MISC,android,NN
 THREE OF YOU,equivalent to sum of one and two people,,three of you,NN
 DETAILS,having many details or facts,,detail,NNS
 CUTE,endearingly attractive,,cute,NN
-ASL DEAFINED,ASLdeafined is a subscription based website for American Sign Language (ASL) video lessons.,I-ORG,asl deafined,VBN
+ASL DEAFINED,ASLdeafined is a subscription based website for American Sign Language (ASL) video lessons.,,asl deafined,VBN
 YOUTUBE,upload video of someone or something to the video-sharing website YouTube,,youtube,NN
 OLD,of specified age,,old,JJ
 IMPROVE,make or become better,,improve,VB
@@ -1331,7 +1331,7 @@ MORE THAN,very great,,more than,NN
 APPALING,greatly dismay or horrify,,appaling,VBG
 BY,concerning; according to,,by,IN
 GEORGIA,"state of south-eastern US, on Atlantic coast",I-LOC,georgia,NN
-ZEBRA,African wild horse with black-and-white stripes,I-MISC,zebra,NN
+ZEBRA,African wild horse with black-and-white stripes,I-PER,zebra,NN
 ASSIGNMENTS ON TIME,latest time or date by which something should be completed,,assignments on time,NN
 EXCITED,very enthusiastic and eager,,excited,VBN
 BIRTHDAY,anniversary of day on which person was born,,birthday,NN
@@ -1366,7 +1366,7 @@ PASTA,dish consisting of dough made from durum wheat,,pasta,NN
 AT TIMES,sometimes,,at times,NNS
 THANKSGIVING,annual national holiday marked by religious observances,,thanksgiving,VBG
 engineer,designer or maker of machines,,engineer,NN
-KETCHUP,sauce made from tomatoes and vinegar,,ketchup,NN
+KETCHUP,sauce made from tomatoes and vinegar,I-PER,ketchup,NN
 AT THE BACK,"behind, esp in support or pursuit.",,at the back,NN
 RUSH,sudden quick movement towards something,,rush,NN
 FIND,discover by chance or unexpectedly,,find,VB
@@ -1468,7 +1468,7 @@ CLICK,press of mouse button,,click,NN
 EVENTS,"a thing that happens, especially one of importance",,event,NNS
 BOARD GAME,game that involves movement of counters or other objects round board,,board game,NN
 DESSERT,sweet course eaten at end of meal,,dessert,NN
-BUNNY,rabbit,,bunny,NN
+BUNNY,rabbit,I-PER,bunny,NN
 FLOOR,lower surface of room for walking on,,floor,NN
 ALL GONE,"used up, finished, over with",,all gone,NN
 AMUSE,cause someone to find something funny,,amuse,NN
@@ -1656,7 +1656,7 @@ POINT FRONT,direct someone's attention towards something by extending one's fing
 PROCESS,series of actions towards achieving something,,process,NN
 APPEASE,pacify or placate someone by acceding to their demands,,appease,NN
 BUSTLE,excited activity and movement,,bustle,NN
-TIGER,"very large solitary cat with yellow-brown coat striped with black, native to forests of Asia but bec",I-PER,tiger,NN
+TIGER,"very large solitary cat with yellow-brown coat striped with black, native to forests of Asia but bec",,tiger,NN
 SELECT,carefully choose as being best or most suitable,,select,NN
 ATHLETE,person who is proficient in sports and other forms of physical exercise,,athlete,NN
 DRINK,swallow liquid,,drink,NN
@@ -1754,7 +1754,7 @@ FORK,pronged implement for lifting food,,fork,NN
 DRINK,liquid swallowed for refreshment or nourishment,,drink,NN
 ALL HEART,to be very kind and generous. ,,all heart,NN
 ADVANTAGE,favourable condition/circumstance,,advantage,NN
-WEST,to or towards the west,,west,NN
+WEST,to or towards the west,I-LOC,west,NN
 SUN,star round which earth orbits,,sun,NN
 DISCONNECT SEAT BELT,break connection of seat belt ,,disconnect seat belt,NN
 PERSONALITY,individual's distinctive character,,personality,NN
@@ -1803,7 +1803,7 @@ BODY COUNT,"A body count is the total number of people killed in a particular ev
 SEEM,give impression of being something or having particular quality,,seem,NN
 TEACHER,person who teaches,,teacher,NN
 COW-IT,"ASL idiom, hyperbole for taking a long time.",,cow-it,NN
-AIR FORCE,branch of armed forces concerned with fighting or defence in air,,air force,NN
+AIR FORCE,branch of armed forces concerned with fighting or defence in air,I-ORG,air force,NN
 FASTEN,close or do up securely,,fasten,NNS
 WAIT,stay where one is or delay action until particular time or event,,wait,NN
 BEDROOM,room for sleeping in,,bedroom,NN
@@ -1815,7 +1815,7 @@ ABS,abdominal muscle,,ab,NNS
 MOUNTAIN,large natural elevation of earth's surface rising abruptly from surrounding level,,mountain,NN
 FIREFIGHTER,person whose job is to extinguish fires,,firefighter,NN
 FRUGAL,sparing or economical as regards money or food,,frugal,NN
-BASHFUL,reluctant to draw attention to oneself,I-PER,bashful,NN
+BASHFUL,reluctant to draw attention to oneself,,bashful,NN
 PERSON,human being regarded as individual,,person,NN
 THUNDER,loud rumbling or crashing noise heard after lightning flash due to expansion of rapidly heated air,,thunder,NN
 EXPLOSIVE,able or likely to explode,,explosive,JJ
@@ -1864,7 +1864,7 @@ LEFT,left-hand part or direction,,left,NN
 CONTENT,the things that are held or included in something,,content,NN
 SPECIALIST,person who concentrates primarily on particular subject or activity,,specialist,NN
 BLEMISHED,small mark or flaw which spoils appearance of something,,blemished,VBN
-BILLBOARD,large outdoor board for displaying advertisements,I-MISC,billboard,NN
+BILLBOARD,large outdoor board for displaying advertisements,,billboard,NN
 FLOWER,part of plant consisting of reproductive organs,,flower,NN
 ICE CREAM,"a type of sweet frozen food made from milk fat, tasting of fruit, chocolate, etc. and often eaten as a dessert",,ice cream,NN
 ATMOSPHERE,gases surrounding the earth,,atmosphere,RB
@@ -1912,7 +1912,7 @@ FALSE,not true or correct,,false,JJ
 SOFTWARE,programs and other operating information used by computer,,software,NN
 WELCOME,instance or manner of greeting someone,,welcome,NN
 THINGS,"object that one need not, cannot, or does not wish to give specific name",,thing,NNS
-BANAL,so lacking in originality as to be obvious and boring,I-MISC,banal,NN
+BANAL,so lacking in originality as to be obvious and boring,,banal,NN
 EXPLANATIONS,statements or accounts that makes something clear,,explanation,NNS
 WORRY,feel or cause to feel anxious or troubled about actual or potential problems,,worry,NN
 HAMBURGER,flat round cake of minced beef,,hamburger,NN
@@ -1954,7 +1954,7 @@ DEPLOYMENT,action of bringing resources into effective action,,deployment,NN
 BACKSEAT,seat at back of vehicle,,backseat,NN
 AUTHORIZATION,action of authorizing,,authorization,NN
 RUSSIA,country in northern Asia and eastern Europe,I-LOC,russia,NN
-LLAMA,domesticated pack animal of camel family found in Andes,I-MISC,llama,NN
+LLAMA,domesticated pack animal of camel family found in Andes,,llama,NN
 ARGENTINA,republic occupying much of southern part of South America,I-LOC,argentina,NN
 WHAT,asking for information specifying something,,what,WP
 OUR,belonging to speaker and one or more others people,,our,PRP$
@@ -1985,11 +1985,11 @@ REQUIRE,need for particular purpose,,require,NN
 WHO,what or which person or people,,who,WP
 MILK,white fluid secreted by female mammals,,milk,NN
 NEXT YEAR,happening a year from now,,next year,JJ
-BALD EAGLE,white-headed North American eagle that includes fish among its prey,I-MISC,bald eagle,NN
+BALD EAGLE,white-headed North American eagle that includes fish among its prey,,bald eagle,NN
 BINGE,period of excessive indulgence in activity,,binge,NN
 HOT SAUCE,spicy liquid or semi-liquid substance served with food,,hot sauce,NN
 MACHINE,mechanical apparatus,,machine,NN
-CORNROWS,style of braiding and plaiting hair in narrow strips,I-ORG,cornrows,NNS
+CORNROWS,style of braiding and plaiting hair in narrow strips,,cornrows,NNS
 BEACH,seashore,,beach,NN
 SUPPORT,bear all or part of the weight of; hold up,,support,NN
 TEN,equivalent to product of five and two,,ten,NNS
@@ -2018,7 +2018,7 @@ ASSEMBLY WORKER,"a person who works in a factory on an assembly line, performing
 LIKELY,probable,,likely,JJ
 AFFORD,have enough money,,afford,NN
 CLIENT,user of professional service,,client,NN
-LAZY,unwilling to use energy,I-PER,lazy,NN
+LAZY,unwilling to use energy,,lazy,NN
 VEGAN,using or containing no animal products,,vegan,NN
 BOULEVARD,wide street in town or city,,boulevard,NN
 WHAT,asking for information specifying something,,what,WP
@@ -2049,7 +2049,7 @@ AUTISM,condition characterized by difficulty in communicating,,autism,NN
 SPEND,give money to pay for something,,spend,NN
 SEVEN DAYS,In poetic and literary use: a week; often as the type of a long (and arduous) period of time.,,seven days,NNS
 TENDENCY,inclination towards particular characteristic or type of behaviour,,tendency,NN
-SHARK,long-bodied marine fish with prominent dorsal fin,I-PER,shark,NN
+SHARK,long-bodied marine fish with prominent dorsal fin,,shark,NN
 ELASTIC,flexible and adaptable,,elastic,JJ
 AMPLE,enough or more than enough,,ample,NN
 PLAN,intention or decision,,plan,NN
@@ -2059,7 +2059,7 @@ CUBA,"Caribbean country, largest and furthest west of islands of West Indies",I-
 WEBCAM,video camera connected to computer,,webcam,NN
 SERVE,perform duties or services for,,serve,NN
 DECORATE,make something look more attractive by adding extra items or images,,decorate,NN
-BLAINE SUNDRUD,Blaine Sundrud from AWS,,blaine sundrud,NN
+BLAINE SUNDRUD,Blaine Sundrud from AWS,I-PER,blaine sundrud,NN
 FREDRICK,Frederick County Public School,I-ORG,fredrick,NN
 BAD,of poor quality or low standard,,bad,JJ
 CLOTHES,items worn to cover body,,clothes,NNS
@@ -2189,12 +2189,12 @@ POWERFUL,having great power or strength,,powerful,JJ
 TURBULENCE,violent or unsteady movement of air or water,,turbulence,NN
 SIDE,position to left or right of object,,side,NN
 O,fifteenth letter of alphabet,,o,NN
-BARBIE,doll representing conventionally attractive young woman,I-PER,barbie,NN
+BARBIE,doll representing conventionally attractive young woman,I-MISC,barbie,NN
 BEANS,edible seeds growing in pod,,bean,NNS
 BULLETPROOF-VEST,vest designed to resist the penetration of bullets,,bulletproof-vest,NN
 JEANS,hard-wearing casual trousers made of denim,,jean,NNS
 BASEBALL CARD,"A collectable picture card depicting a baseball player, often including performance statistics and biographical information.",,baseball card,NN
-COVID,illness caused by Covid-19,I-MISC,covid,NN
+COVID,illness caused by Covid-19,,covid,NN
 FISH,animal with gills and fins living in water,,fish,NN
 LIGHT,of little weight,,light,NN
 HELP,assist someone to do something,,help,NN
@@ -2246,7 +2246,7 @@ MEMBER,"person, animal, etc. belonging to group",,member,NN
 THREATEN,state one's intention to take hostile action against someone in retribution for something,,threaten,NNS
 VACUUM,vacuum cleaner,,vacuum,NN
 SUCCESS,accomplishment of aim or purpose,,success,NN
-ORANGE,bright reddish-yellow colour,I-MISC,orange,NN
+ORANGE,bright reddish-yellow colour,,orange,NN
 GUESS,estimate without being sure of being correct,,guess,NN
 SUPPLIES,stock or amount of something supplied or available for use,,supply,NNS
 FACE,front part of head,,face,NN
@@ -2305,7 +2305,7 @@ GO,move from one place to another,,go,VB
 CODE,"system of words, figures, etc. used to represent others",,code,NN
 JUST,morally right and fair,,just,RB
 THOSE,plural form of that,,those,DT
-SOUTH CAROLINA,state of US on Atlantic coast,I-LOC,south carolina,NN
+SOUTH CAROLINA,state of US on Atlantic coast,,south carolina,NN
 VIRGINIA,"state of eastern US, on Atlantic coast",I-LOC,virginia,NN
 TRUE,in accordance with fact or reality,,true,JJ
 YOURSELF,used to refer to person being addressed,,yourself,PRP
@@ -2314,7 +2314,7 @@ SEARCH,try to find something by looking or otherwise seeking carefully,,search,N
 LEFT,left-hand part or direction,,left,NN
 STOMACH,internal organ in which major part of digestion of food occurs,,stomach,NN
 FEEL,be aware of through touching,,feel,NN
-CHOW,food,,chow,NN
+CHOW,food,I-PER,chow,NN
 APPEAR,become visible or noticeable,,appear,VB
 SECOND,constituting number two in sequence,,second,JJ
 EXAMINE,inspect person or thing thoroughly,,examine,NN
@@ -2365,7 +2365,7 @@ ALL DAY NIGHT,All day and night,,all day night,NN
 ANNOUNCE,make formal public statement about fact or intention,,announce,NN
 ADJUST,alter/move,,adjust,NN
 T,twentieth letter of alphabet,,t,NN
-NEW ZEALAND,"island country in South Pacific about 1,900 km 1,200 miles east of Australia",I-LOC,new zealand,NN
+NEW ZEALAND,"island country in South Pacific about 1,900 km 1,200 miles east of Australia",,new zealand,NN
 ASPHYXIATE,kill someone by depriving them of air,,asphyxiate,NN
 SCREEN,panel or area on electronic device on which images and data are displayed,,screen,NN
 TAKE OUT,to remove something from somewhere:,,take out,NN
@@ -2404,7 +2404,7 @@ MODULE,standardized part used in construction of structure,,module,NN
 EYE,organ of sight in humans and animals,,eye,NN
 COMMUNICATION,imparting or exchanging of information,,communication,NN
 SUPPOSE,think or assume that something is true or probable but lack proof,,suppose,NN
-WEB,global computer network providing information and communication facilities,I-ORG,web,NN
+WEB,global computer network providing information and communication facilities,,web,NN
 CLICK,press mouse button,,click,NN
 MEMES,create internet meme from,,meme,NNS
 MORE THAN,extremely,,more than,NN
@@ -2413,7 +2413,7 @@ BROADWAY,"a street traversing the length of Manhattan, New York. It is famous fo
 BICYCLE,"vehicle consisting of two wheels held in frame one behind other, propelled by pedals",,bicycle,NN
 HURRICANE,storm with violent wind,,hurricane,NN
 BEACH,seashore,,beach,NN
-ISLAND,piece of land surrounded by water,,island,NN
+ISLAND,piece of land surrounded by water,I-LOC,island,NN
 AWAKEN,rouse from sleep,,awaken,NN
 CAR CRASH,an instance of a car colliding with another vehicle or with an object,,car crash,NN
 EARLY,happening before usual time,,early,RB
@@ -2447,7 +2447,7 @@ HORIZONTAL STRIPES,at right angles to vertical stripes,,horizontal stripes,NNS
 MY,belonging to speaker,,my,PRP$
 RIGHTS,morally good or acceptable,,right,NNS
 PUBLISH,prepare and issue book etc. for sale,,publish,NN
-BODEGA,small grocery shop,I-ORG,bodega,NN
+BODEGA,small grocery shop,I-LOC,bodega,NN
 PROCESSING,series of actions towards achieving something,,processing,NN
 BACK OF THE HEAD,the back of the head,,back of the head,NN
 BAR MITZVAH,initiation ceremony of Jewish boy who has reached age of 13 and is regarded as ready to observe religious precepts,,bar mitzvah,NN
@@ -2456,12 +2456,12 @@ BOAT,small vessel,,boat,NN
 SERVICE,action of helping or doing work for someone,,service,NN
 ANTIPSYCHOTIC,(chiefly of drug) used to treat psychotic disorders,,antipsychotic,JJ
 STARBUCKS,Starbucks Corporation is an American multinational chain of coffeehouses,I-ORG,starbucks,NNS
-BLAINE SUNDRUD,Blaine Sundrud from AWS,,blaine sundrud,NN
+BLAINE SUNDRUD,Blaine Sundrud from AWS,I-PER,blaine sundrud,NN
 GET,come to have or hold,,get,VB
 TRY,make attempt or effort to do something,,try,NN
 PATIENCE,capacity to accept problems without becoming annoyed or anxious,,patience,NN
 STEPFATHER,man who is husband or partner of one's parent after divorce or death,,stepfather,NN
-ORANGE,large citrus fruit,I-MISC,orange,NN
+ORANGE,large citrus fruit,,orange,NN
 RUDY,Fingerspell the name Rudy,I-PER,rudy,NN
 AIRPLANE,powered flying vehicle with fixed wings,,airplane,NN
 BEFORE,during period of time preceding particular event,,before,IN
@@ -2480,7 +2480,7 @@ ARMLET,band or bracelet worn around upper part of person's arm,,armlet,NN
 CABIN CREW,the members of an aircraft crew who attend to passengers,,cabin crew,NN
 AWS,Amazon Web Service,I-ORG,aws,NNS
 CANCEL,call off,,cancel,NN
-BLIMP,small airship,I-MISC,blimp,NN
+BLIMP,small airship,,blimp,NN
 HAPPY,feeling contentment,,happy,JJ
 FROZEN,having turned into ice as result of extreme cold,,frozen,NNS
 CULTURE,"the customs, arts, social institutions, and achievements of a particular nation, people, or other social group",,culture,NN
@@ -2532,7 +2532,7 @@ ACTIONS,processes of doing something,,action,NNS
 KIND,group of people or things having similar characteristics,,kind,NN
 DARK,with little or no light,,dark,NN
 USA,United States of America,I-LOC,usa,NN
-CLAM,marine bivalve mollusc with shells of equal size,I-MISC,clam,NN
+CLAM,marine bivalve mollusc with shells of equal size,,clam,NN
 CALM DOWN,"to become less excited, intense or angry",,calm down,NN
 TERRITORY,"(especially in the US, Canada, or Australia) an organized division of a country that is not yet admitted to the full rights of a state",,territory,NN
 COME,move towards speaker,,come,VB
@@ -2548,7 +2548,7 @@ DIFFERENT,"not the same as another or each other; unlike in nature, form, or qua
 DIFFERENT,not same as another or each other,,different,JJ
 ACCOUNTANT,person whose job is to keep or inspect financial accounts,,accountant,NN
 BAR,"counter in public house, restaurant, or cafe",,bar,NN
-DOWNTOWN,in or relating to central part or main business and commercial area of town or city,I-LOC,downtown,NN
+DOWNTOWN,in or relating to central part or main business and commercial area of town or city,,downtown,NN
 GLOBAL,relating to whole world,,global,JJ
 WRITE,compose text or work for written or printed reproduction or publication,,write,NN
 APPETIZING,stimulating one's appetite,,appetizing,VBG
@@ -2591,7 +2591,7 @@ BUSTED-LIP,"harmed, damaged, or impaired lip",,busted-lip,NN
 ROUND,shaped like circle or cylinder,,round,NN
 VIRTUAL,not physically existing as such but made by software,,virtual,JJ
 LEAN,be in sloping position,,lean,NN
-AKIN,of similar character,I-PER,akin,NN
+AKIN,of similar character,,akin,NN
 SELL,act of selling or attempting to sell something,,sell,NN
 LINES,a bunch of long mark or band,,line,NNS
 LESSON,period of learning or teaching,,lesson,NN
@@ -2665,7 +2665,7 @@ HUSBAND,married man considered in relation to his spouse,,husband,NN
 AMAZING,causing great surprise or wonder,,amazing,VBG
 BOUGHT,obtain in exchange for payment,,bought,NN
 CARPENTER,person who makes and repairs wooden objects and structures,,carpenter,NN
-BLIZZARD,severe snowstorm with high winds,I-MISC,blizzard,NN
+BLIZZARD,severe snowstorm with high winds,,blizzard,NN
 SAD,feeling or showing sorrow,,sad,NN
 WILL,expressing future tense,,will,MD
 WE,used by speaker to refer to himself or herself and one or more other people considered together,,we,PRP
@@ -2705,11 +2705,11 @@ BREAD,baked food made from flour,,bread,NN
 MOVE AWAY,change position,,move away,NN
 FIT,be right shape and size for,,fit,NN
 INTRODUCTION,bringing of something into use for first time,,introduction,NN
-DEMOCRATIC,relating to or supporting democracy or its principles,I-MISC,democratic,JJ
+DEMOCRATIC,relating to or supporting democracy or its principles,,democratic,JJ
 Y,twenty-fifth letter of alphabet,,y,NN
 AFTER,in time following,,after,IN
 OFTEN,frequently,,often,RB
-NOSY,showing too much curiosity about other people's affairs,I-PER,nosy,NNS
+NOSY,showing too much curiosity about other people's affairs,,nosy,NNS
 ASL,American Sign Language,I-MISC,asl,NN
 WEAR VEST,have a vest on one's body as clothing or protection,,wear vest,JJS
 DISAPPEAR,cease to be visible,,disappear,NN
@@ -2759,7 +2759,7 @@ HOPE,desire for thing to happen,,hope,NN
 EXCEPT,not including,,except,IN
 ASL,American Sign Language,I-MISC,asl,NN
 FLYING DEBRIS,flying scattered pieces of rubbish or remains,,flying debris,NN
-FLEXIBLE,capable of bending easily without breaking,I-MISC,flexible,JJ
+FLEXIBLE,capable of bending easily without breaking,,flexible,JJ
 TIP,pointed or rounded end or extremity of something slender or tapering,,tip,NN
 HONEST,truthful and sincere,,honest,NN
 TODAY,on or in course of this present day,,today,NN
@@ -2802,12 +2802,12 @@ ME WHO?,used by speaker to refer to himself or herself as object of verb or prep
 MANAGE,"be in charge of a business, organization, or undertaking run.",,manage,NN
 SNOWBOARDING,sport or pastime of sliding downhill on snowboard,,snowboarding,VBG
 FLYING DEBRIS,flying scattered pieces of rubbish or remains,,flying debris,NN
-STRONG,able to withstand force or wear,I-PER,strong,JJ
+STRONG,able to withstand force or wear,,strong,JJ
 FINISH,complete task or activity,,finish,NN
 CLICK,press of mouse button,,click,NN
 FEELING,showing emotion or sensitivity,,feeling,VBG
 PEOPLE,human beings,,people,NNS
-LINKEDIN,social media site for networking among workplaces for professionals,I-ORG,linkedin,NN
+LINKEDIN,social media site for networking among workplaces for professionals,,linkedin,NN
 BLUNDER,stupid or careless mistake,,blunder,NN
 HERE,indicating time that has arrived,,here,RB
 ABSURDITY,quality or state of being ridiculous or wildly unreasonable,,absurdity,NN
@@ -2822,7 +2822,7 @@ REVIEW,formal assessment of something with intention of instituting change if ne
 ACCEPT,consent to receive or undertake,,accept,NN
 REMOTE,remote control device,,remote,NN
 LOUD,producing much noise,,loud,NN
-INNOVATIVE,featuring new methods,I-ORG,innovative,JJ
+INNOVATIVE,featuring new methods,,innovative,JJ
 SUPPORT,give assistance to,,support,NN
 CHOCOLATE,food made from cacao seeds,,chocolate,NN
 BITTERSWEET,sweet with bitter aftertaste,,bittersweet,NN
@@ -2837,7 +2837,7 @@ PROFIT,obtain financial profit,,profit,NN
 ANCIENT,of very distant past,,ancient,NN
 BREAK UP,the end of a relationship,,break up,NN
 MONTANA,"state in western US, on Canadian border to east of Rocky Mountains",I-LOC,montana,NN
-ASL INTERPRETER,person who interprets american sign language,I-MISC,asl interpreter,NN
+ASL INTERPRETER,person who interprets american sign language,,asl interpreter,NN
 WORRY,state of being anxious and troubled,,worry,NN
 ARROGANT,having or revealing exaggerated sense of one's own importance,,arrogant,JJ
 LABOR DAY,"a public holiday in the US and Canada on the first Monday of September, in honour of working people",,labor day,NN
@@ -2958,7 +2958,7 @@ FROG,tailless amphibian with short squat body,,frog,NN
 IRELAND,Republic of Ireland,I-LOC,ireland,NN
 BAGGER,a person or device that bags something,,bagger,NN
 HAIL,pellets of frozen rain which fall in showers from cumulonimbus clouds,,hail,NN
-PUZZLED,unable to understand,I-PER,puzzled,VBN
+PUZZLED,unable to understand,,puzzled,VBN
 MATCH,exact equivalent,,match,NN
 HEARTBROKEN,suffering from overwhelming distress,,heartbroken,NN
 FACTORS,something that contributes to result,,factor,NNS
@@ -3080,7 +3080,7 @@ YOUR NAME WHAT,asking of ones name,,your name what,RB
 ACCESS,approach or enter,,access,NN
 CLOUD COMPUTING,"practice of using network of remote servers hosted on internet to store, manage, and process data",,cloud computing,VBG
 TRAIN STATION,railway station,,train station,NN
-FACEBOOK,use Facebook,I-ORG,facebook,NN
+FACEBOOK,use Facebook,,facebook,NN
 USE,"take, hold, or deploy something as means of accomplishing or achieving something",,use,NN
 ATHLETE,person who is proficient in sports and other forms of physical exercise,,athlete,NN
 POWER OUTAGE,period when power supply or other service is not available or when equipment is closed down,,power outage,NN
@@ -3275,7 +3275,7 @@ SUPPOSE,think or assume that something is true or probable but lack proof,,suppo
 BAKING,action of cooking food by dry heat,,baking,NN
 OVERALLS,protective garment,,overall,NNS
 STORED,keep or accumulate something for future use,,stored,VBN
-WILL,expressing inevitable events,I-PER,will,MD
+WILL,expressing inevitable events,,will,MD
 FIGHT,take part in violent physical struggle,,fight,NN
 HAVE,"possess, own, or hold",,have,VB
 LUNCH,meal eaten in middle of day,,lunch,NN
@@ -3289,7 +3289,7 @@ MISSISSIPPI,"a major river of North America, which rises in Minnesota near the C
 NOTEBOOK,small book with blank or ruled pages for writing notes in,,notebook,NN
 SYMBOL,thing that represents for something else,,symbol,NN
 YOU AND ME,used to refer to any person in general,,you and me,NN
-BRUTAL,savagely violent,I-PER,brutal,NN
+BRUTAL,savagely violent,,brutal,NN
 REALIZED,become fully aware of something as fact,,realized,VBN
 POSSIBLE,able to be done,,possible,JJ
 ANSWER,thing said in response to another,,answer,NN
@@ -3359,7 +3359,7 @@ FIRE STATION,The building where firefighters and fire trucks/fire engines are ho
 OPERATING SYSTEM,operating system,,operating system,NN
 INDIVIDUAL,single or separate,,individual,JJ
 ABSENCE,state of being away from place or person,,absence,NN
-ELASTIC,able to resume shape spontaneously,I-PER,elastic,JJ
+ELASTIC,able to resume shape spontaneously,,elastic,JJ
 SMOKE,visible suspension of carbon or other particles in air,,smoke,NN
 ANTIQUES,valuable old objects,,antique,NNS
 REPLY,say something in response to something someone has said,,reply,NN
@@ -3386,7 +3386,7 @@ INTRODUCTION,formal presentation of one person to another,,introduction,NN
 ADDED,denoting increased or enhancing quality or factor,,added,VBD
 SANDWICH,item of food consisting of two pieces of bread with filling,,sandwich,NN
 CLOUD,mass of condensed watery vapour,,cloud,NN
-ANTI,opposed to; against,I-PER,anti,NN
+ANTI,opposed to; against,,anti,NN
 LOOK,have appearance of being,,look,NN
 BLOOD CLOT,gelatinous mass of fibrin and blood cells formed by coagulation of blood,,blood clot,NN
 RECENTLY,at recent time,,recently,RB
@@ -3451,7 +3451,7 @@ BACK WHEN,"In the past, when people were.",,back when,NN
 ALMOST,not quite,,almost,RB
 BOTH,"used for emphasis to refer to two people or things, regarded and identified together",,both,DT
 FOOD,any nutritious substance that people or animals,,food,NN
-SMART,having or showing quick-witted intelligence,I-PER,smart,NN
+SMART,having or showing quick-witted intelligence,,smart,NN
 DELIBERATION,long and careful consideration or discussion,,deliberation,NN
 COFFEE,hot drink,,coffee,NN
 CONTROL,direct and supervise,,control,NN
@@ -3512,11 +3512,11 @@ INFRASTRUCTURE,basic physical and organizational structures and facilities,,infr
 FAVORITE,preferred to all others of the same kind.,,favorite,NN
 RESTAURANT,place where people pay to sit and eat meals,,restaurant,NN
 MISSED,not able to be found,,missed,VBN
-INSTAGRAM,post photograph on Instagram,I-ORG,instagram,NN
+INSTAGRAM,post photograph on Instagram,I-MISC,instagram,NN
 DOWN,towards or in lower position,,down,RB
 DELIBERATIONS,long and careful consideration or discussion,,deliberation,NNS
 BOOK,written or printed work,,book,NN
-NORTH CAROLINA,state of east central US,,north carolina,NN
+NORTH CAROLINA,state of east central US,I-LOC,north carolina,NN
 FIELD,area of open land,,field,NN
 STRICT,demanding that rules concerning behaviour are obeyed and observed,,strict,NN
 FINISH,complete task or activity,,finish,NN
@@ -3551,7 +3551,7 @@ APRIL,fourth month of year,,april,NN
 CAKE,sweet food,,cake,NN
 AVENUE,broad road in town,,avenue,NN
 ONLINE,available on internet,,online,NN
-SHARK,long-bodied marine fish with prominent dorsal fin,I-PER,shark,NN
+SHARK,long-bodied marine fish with prominent dorsal fin,,shark,NN
 WATCH,look at or observe attentively over period of time,,watch,NN
 SERVER,computer or computer program which manages access to centralized resource or service in network,,server,NN
 SEARCH,try to find something by looking or otherwise seeking carefully,,search,NN
@@ -3685,7 +3685,7 @@ UNSTABLE,likely to give way,,unstable,JJ
 SHORT HAIR,fine strand growing from skin on head cut short,,short hair,NN
 PERMISSION,action of officially allowing someone to do particular thing,,permission,NN
 SERVICE,action of helping or doing work for someone,,service,NN
-PA,Pennsylvania (in official postal use),,pa,NN
+PA,Pennsylvania (in official postal use),I-LOC,pa,NN
 BINGE EATING OR DRINKING,period of excessive indulgence in activity,,binge eating or drinking,NN
 TORNADO,"mobile, destructive vortex of violently rotating winds having appearance of funnel-shaped cloud",,tornado,NN
 YOU,used to refer to person or people that speaker is addressing,,you,PRP
@@ -3702,7 +3702,7 @@ TRUE,accurate or exact,,true,JJ
 OFTEN,frequently,,often,RB
 BRIGHT,giving out much light,,bright,NN
 ALARM CLOCK,clock that can be made to sound at set time,,alarm clock,NN
-BLUNT,uncompromisingly forthright,I-PER,blunt,NN
+BLUNT,uncompromisingly forthright,,blunt,NN
 CHICKEN,domestic fowl,,chicken,NN
 PARK,public area of land for recreation,,park,NN
 ACQUITTAL,judgement or verdict that person is not guilty of crime with which they have been charged,,acquittal,NN
@@ -3781,7 +3781,7 @@ SAND,loose granular substance resulting from erosion of siliceous and other rock
 BOOGIE,dance to pop or rock music,,boogie,NN
 UPRIGHT,sitting or standing with back straight,,upright,JJ
 NEXT MONTH,the following month or coming month,,next month,NN
-BLENDER,electric mixing machine,I-ORG,blender,NN
+BLENDER,electric mixing machine,,blender,NN
 SEE,perceive with eyes,,see,VB
 DRINK,swallow liquid,,drink,NN
 APOSTROPHE,punctuation mark used to indicate either possession,,apostrophe,NN
@@ -3845,7 +3845,7 @@ RUN,move at speed faster than walk,,run,VB
 MONEY,coins and banknotes,,money,NN
 PRESIDENTS' DAY,"(in the US) a legal holiday on the third Monday in February, in memory of the birthdays of George Washington and Abraham Lincoln",,presidents' day,NN
 OPEN ARM REST,airplane safety procedure equiptment location in seat arm rest,,open arm rest,JJS
-BROWN,brown colour or pigment,I-MISC,brown,NN
+BROWN,brown colour or pigment,,brown,NN
 NEVADA,state of western US,I-LOC,nevada,NN
 THEN,after that,,then,RB
 APART,separated by distance,,apart,RB
@@ -3883,7 +3883,7 @@ FINISH,complete task or activity,,finish,NN
 LINE,long mark or band,,line,NN
 LEVELS,a horizontal planes or lines with respect to the distance above or below a given point,,level,NNS
 THEATRE,building where plays are staged,,theatre,NN
-DOG,domesticated carnivorous mammal,I-MISC,dog,NN
+DOG,domesticated carnivorous mammal,,dog,NN
 AMUSEMENT,state of being amused,,amusement,NN
 HUMILIATE,make someone feel ashamed and foolish by injuring their dignity and pride,,humiliate,NN
 APPLICATION,the action of putting something into operation,,application,NN
@@ -3922,7 +3922,7 @@ TRUCK,large road vehicle used for carrying goods or troops,,truck,NN
 E,fifth letter of alphabet,,e,NN
 EXCEED,be greater in number or size than,,exceed,NN
 A WEEK AGO,"A week ago means 7 days ago (or thereabouts). Last week means last calendar week. If it is Sunday, the day before (Saturday) is part of last week.",,a week ago,NN
-ASKEW,not in straight or level position,I-PER,askew,NN
+ASKEW,not in straight or level position,,askew,NN
 PROGRAM,small book or sheet of paper that gives information about the play or concert you are attending.,,program,NN
 C,third letter of alphabet,,c,NNS
 RHODE ISLAND,"state in north-eastern US, on Atlantic coast",I-LOC,rhode island,NN
@@ -3932,7 +3932,7 @@ ASL EXPRESSION,an expression of ASL,,asl expression,NN
 SEAFOOD,"shellfish and sea fish, served as food",,seafood,NN
 BAR,establishment where alcohol is served,,bar,NN
 ACTIVITY,condition in which things happen,,activity,NN
-NEW YORK,state in north-eastern US,I-LOC,new york,NN
+NEW YORK,state in north-eastern US,,new york,NN
 ALLIGATOR,large semiaquatic reptile similar to crocodile but with broader and shorter head,I-MISC,alligator,NN
 SHOULDER,upper joint of each of person's arms and part of body between this and neck,,shoulder,NN
 CAUCASIAN,white person,I-MISC,caucasian,NN
@@ -3989,7 +3989,7 @@ ARCHITECTURE,art of designing buildings,,architecture,NN
 INFORMATION,facts provided or learned,,information,NN
 ASPECT,the positioning of a building or other structure in a particular direction,,aspect,NN
 FINISH,complete task or activity,,finish,NN
-MORGAN WILLIS,Morgan Willis from AWS,I-PER,morgan willis,NNS
+MORGAN WILLIS,Morgan Willis from AWS,,morgan willis,NNS
 BREATHE,take air into lungs and then expel it,,breathe,NN
 REQUEST,act of asking politely or formally for something,,request,NN
 HAT,shaped covering for head,,hat,NN
@@ -4042,9 +4042,9 @@ GIVES,transfer possession of something to,,give,VBZ
 HOW MUCH,what amount or price,,how much,JJ
 THINGS,"objects that one need not, cannot, or does not wish to give specific name",,thing,NNS
 NAVIGATE,plan and direct ship's course,,navigate,NN
-DOG,domesticated carnivorous mammal,I-MISC,dog,NN
+DOG,domesticated carnivorous mammal,,dog,NN
 D,fourth letter of alphabet,,d,NN
-DEMOCRATIC,relating to or supporting democracy or its principles,I-MISC,democratic,JJ
+DEMOCRATIC,relating to or supporting democracy or its principles,,democratic,JJ
 VEGETABLE,plant or part of plant used as food,,vegetable,NN
 KID,child or young person,,kid,NN
 ARM REST,padded or upholstered arm of chair or other seat on which sitter can comfortably rest their arm,,arm rest,NN
@@ -4052,14 +4052,14 @@ EQUIPMENT,necessary items,,equipment,NN
 SNACK,small amount of food eaten between meals,,snack,NN
 LIGHT,provide with light,,light,NN
 BIRTHDAY,anniversary of day on which person was born,,birthday,NN
-FLEXIBLE,capable of bending easily without breaking,I-MISC,flexible,JJ
+FLEXIBLE,capable of bending easily without breaking,,flexible,JJ
 MOBILE DEVICE,"relating to mobile phones, handheld computers, and similar technology",,mobile device,NN
 HIGH,of great vertical extent,,high,JJ
-GULLIBLE,easily persuaded to believe something,I-PER,gullible,JJ
+GULLIBLE,easily persuaded to believe something,,gullible,JJ
 LIGHTNING,occurrence of natural electrical discharge of very short duration and high voltage between cloud and ground or within cloud,,lightning,VBG
 CONFIRM,establish truth or correctness of,,confirm,NN
-RUSH,move with urgent haste,I-ORG,rush,NN
-DUCK,waterbird,,duck,NN
+RUSH,move with urgent haste,,rush,NN
+DUCK,waterbird,I-PER,duck,NN
 FALL,act of falling,,fall,NN
 ANNUAL,occurring once a year,,annual,JJ
 YOUR,belonging to or associated with any person in general,,your,PRP$
@@ -4073,7 +4073,7 @@ BROTH,"soup consisting of meat or vegetable chunks, and often rice, cooked in st
 CONCEPTS,abstract ideas,,concept,NNS
 ROCK,solid mineral material forming part of surface of earth and other similar planets,,rock,NN
 PLAID,chequered or tartan twilled cloth,,plaid,NN
-AGAPE,wide open in surprise or wonder,I-ORG,agape,NN
+AGAPE,wide open in surprise or wonder,I-LOC,agape,NN
 DROUGHT,prolonged period of abnormally low rainfall,,drought,NN
 NATURAL,related by blood,,natural,JJ
 NOW,at present time,,now,RB
@@ -4102,13 +4102,13 @@ HEAVY,of great weight,,heavy,JJ
 SOCK,garment for foot and lower part of leg,,sock,NN
 INCREASE,become or make greater in size or degree,,increase,NN
 CERTAIN,sure or definite,,certain,JJ
-CLOSE,near,I-LOC,close,RB
+CLOSE,near,,close,RB
 TRUE,in accordance with fact or reality,,true,JJ
 BOW TIE, a man's tie that is tied in the shape of a bow and that does not hang down,,bow tie,NN
 ME,used by speaker to refer to himself or herself as object of verb or preposition,,me,PRP
 TRANSACTION,instance of buying or selling something,,transaction,NN
 BETTER,more satisfactory or effective,,better,RBR
-BROWN,dark-skinned or suntanned,I-PER,brown,NN
+BROWN,dark-skinned or suntanned,,brown,NN
 ANYMORE,now; nowadays; at present,,anymore,RB
 BRING-BACK,reintroduce something,,bring-back,NN
 DISSENSION,disagreement that leads to discord,,dissension,NN
@@ -4122,7 +4122,7 @@ CITY,large town,,city,NN
 BOX,square or rectangular container,,box,NN
 RAIN,condensed moisture of atmosphere falling visibly in separate drops,,rain,NN
 ZOO,establishment which maintains collection of wild animals,,zoo,NN
-TWINS,one of two children or animals born at same birth,I-MISC,twin,NNS
+TWINS,one of two children or animals born at same birth,,twin,NNS
 DESCRIBE,give detailed account in words of,,describe,NN
 BLINK,shut and open eyes quickly,,blink,NN
 SHORT,measuring small distance from end to end,,short,JJ
@@ -4142,7 +4142,7 @@ PYJAMAS,loose-fitting jacket and trousers for sleeping in,,pyjama,NN
 NIECE,daughter of one's brother or sister,,niece,NN
 BEST FRIEND,person's closest friend,,best friend,NN
 DENTIST,person who is qualified to treat diseases and other conditions that affect teeth and gums,,dentist,NN
-NEW HAMPSHIRE,"state in north-eastern US, on Atlantic coast",I-LOC,new hampshire,NN
+NEW HAMPSHIRE,"state in north-eastern US, on Atlantic coast",,new hampshire,NN
 AFRICAN AMERICAN,a black American of African descent,I-MISC,african american,JJ
 WIN,be successful or victorious in,,win,NN
 BEACH,seashore,,beach,NN
